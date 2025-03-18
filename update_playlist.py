@@ -1,5 +1,5 @@
-
 import requests
+import re
 
 # Функция для загрузки плейлиста по URL
 def load_playlist(url):
@@ -37,10 +37,23 @@ def merge_playlists(my_playlist, source_playlist):
     my_groups = parse_playlist(my_playlist)
     source_groups = parse_playlist(source_playlist)
 
-    for group_name, group_content in my_groups.items():
-        if group_name in source_groups:
-            # Заменяем содержимое группы из моего плейлиста на содержимое из исходного
-            my_groups[group_name] = source_groups[group_name]
+    # Ищем группу, содержащую слово "Lime" в исходном плейлисте
+    lime_vpn_content = None
+    for group_name, group_content in source_groups.items():
+        if re.search(r'\bLime\b', group_name):
+            print(f"Найдена группа '{group_name}' в исходном плейлисте")
+            lime_vpn_content = group_content
+            break
+
+    # Если нашли группу, заменяем содержимое группы "Lime" в моём плейлисте
+    if lime_vpn_content:
+        if "Lime" in my_groups:
+            print("Заменяем содержимое группы 'Lime' на найденную группу")
+            my_groups["Lime"] = lime_vpn_content
+        else:
+            print("Группа 'Lime' не найдена в вашем плейлисте")
+    else:
+        print("Группа, содержащая слово 'Lime', не найдена в исходном плейлисте")
 
     # Формируем обновлённый плейлист
     updated_playlist = []
