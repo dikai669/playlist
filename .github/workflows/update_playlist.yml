@@ -1,0 +1,42 @@
+name: Update Playlist
+
+on:
+  # Запускать действие при каждом пуше в главную ветку
+  push:
+    branches:
+      - main
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Шаг 1: Клонировать репозиторий
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Шаг 2: Установить Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # Выберите версию Python
+
+      # Шаг 3: Установить зависимости (если нужны)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Шаг 4: Запустить скрипт
+      - name: Run playlist update script
+        run: |
+          python update_playlist.py
+
+      # Шаг 5: Зафиксировать изменения в репозитории
+      - name: Commit updated playlist
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add updated_playlist.m3u
+          git commit -m "Updated playlist" || echo "No changes to commit"
+          git push
