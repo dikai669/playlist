@@ -40,7 +40,8 @@ def merge_playlists(my_playlist, source_playlist):
     # Ищем группу, содержащую слово "Lime" в исходном плейлисте
     lime_vpn_content = None
     for group_name, group_content in source_groups.items():
-        if re.search(r'\bLime\b', group_name):
+        print(f"Проверяется группа: '{group_name}'")  # Отладочный вывод
+        if re.search(r'Lime', group_name, re.IGNORECASE):  # Ищем частичное совпадение, игнорируем регистр
             print(f"Найдена группа '{group_name}' в исходном плейлисте")
             lime_vpn_content = group_content
             break
@@ -70,17 +71,23 @@ def main():
     my_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/dzm3.txt"
 
     # Загружаем плейлисты
-    source_playlist = load_playlist(source_url)
-    my_playlist = load_playlist(my_url)
+    try:
+        source_playlist = load_playlist(source_url)
+        my_playlist = load_playlist(my_url)
+    except Exception as e:
+        print(f"Ошибка при загрузке плейлиста: {e}")
+        return
 
     # Объединяем плейлисты
     updated_playlist = merge_playlists(my_playlist, source_playlist)
 
     # Сохраняем обновлённый плейлист в файл
-    with open("updated_playlist.m3u", "w", encoding="utf-8") as f:
-        f.write("\n".join(updated_playlist))
-
-    print("Обновлённый плейлист сохранён в файл 'updated_playlist.m3u'.")
+    try:
+        with open("updated_playlist.m3u", "w", encoding="utf-8") as f:
+            f.write("\n".join(updated_playlist))
+        print("Обновлённый плейлист сохранён в файл 'updated_playlist.m3u'.")
+    except Exception as e:
+        print(f"Ошибка при сохранении плейлиста: {e}")
 
 if __name__ == "__main__":
     main()
