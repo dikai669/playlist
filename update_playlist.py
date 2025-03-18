@@ -68,7 +68,7 @@ def merge_playlists(my_playlist, source_playlist):
 def main():
     # URL-ы плейлистов
     source_url = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
-    my_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/dzm3.txt"
+    my_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/dzm4.txt"
 
     # Загружаем плейлисты
     try:
@@ -81,13 +81,13 @@ def main():
     # Объединяем плейлисты
     updated_playlist = merge_playlists(my_playlist, source_playlist)
 
-    # Сохраняем обновлённый плейлист в файл
+    # Перезаписываем старый файл dzm4.txt
     try:
-        with open("updated_playlist.m3u", "w", encoding="utf-8") as f:
+        with open("dzm4.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(updated_playlist))
-        print("Обновлённый плейлист сохранён в файл 'updated_playlist.m3u'.")
+        print("Старый файл 'dzm4.txt' успешно обновлён.")
     except Exception as e:
-        print(f"Ошибка при сохранении плейлиста: {e}")
+        print(f"Ошибка при записи файла: {e}")
 
 if __name__ == "__main__":
     main()
