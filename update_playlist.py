@@ -1,3 +1,40 @@
+import requests
+import re
+
+# Функция для парсинга M3U плейлиста
+def parse_m3u(url):
+    """Парсит M3U файл и возвращает словарь групп."""
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
+    
+    lines = response.text.splitlines()
+    groups = {}
+    current_group = None
+    group_content = []
+
+    for line in lines:
+        if line.startswith("#EXTINF"):
+            # Извлекаем название группы из тега EXTGRP
+            match = re.search(r'group-title="([^"]+)"', line)
+            if match:
+                group_name = match.group(1).strip()
+                if group_name != current_group:
+                    if current_group and group_content:
+                        groups[current_group] = group_content
+                    current_group = group_name
+                    group_content = []
+                group_content.append(line)
+        elif line.startswith("http"):
+            group_content.append(line)
+
+    # Добавляем последнюю группу
+    if current_group and group_content:
+        groups[current_group] = group_content
+
+    return groups
+
+# Функция для обновления плейлиста
 def update_playlist(source_url, target_url, output_file):
     """Обновляет целевой плейлист на основе исходного."""
     source_groups = parse_m3u(source_url)
@@ -23,7 +60,7 @@ if __name__ == "__main__":
     # URL исходного и целевого плейлистов
     source_url = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
     target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u"
-    output_file = "mpll.m3u"  # Изменено на имя вашего файла
+    output_file = "mpll.m3u"
 
     # Обновляем плейлист
     try:
