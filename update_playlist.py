@@ -24,8 +24,9 @@ def parse_m3u(url):
                         groups[current_group] = group_content
                     current_group = group_name
                     group_content = []
-                group_content.append(line)
-        elif line.startswith("http"):
+            group_content.append(line)
+        elif line.startswith("#EXTVLCOPT") or line.startswith("http"):
+            # Добавляем строки с EXTVLCOPT и ссылки
             group_content.append(line)
 
     # Добавляем последнюю группу
