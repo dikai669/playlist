@@ -35,17 +35,26 @@ def parse_m3u(url):
     return groups
 
 # Функция для обновления плейлиста
-def update_playlist(source_url, target_url, output_file):
-    """Обновляет целевой плейлист на основе исходного."""
-    source_groups = parse_m3u(source_url)
+def update_playlist(source_urls, target_url, output_file, special_group=None, special_source=None):
+    """Обновляет целевой плейлист на основе одного или нескольких исходников."""
     target_groups = parse_m3u(target_url)
     
-    # Обновляем группы в целевом плейлисте
+    # Обновляем группы из первого исходника
+    source_groups = parse_m3u(source_urls[0])
     for group, channels in source_groups.items():
         if group in target_groups:
-            print(f"Обновляется группа: {group}")
+            print(f"Обновляется группа: {group} из первого исходника")
             target_groups[group] = channels  # Заменяем содержимое группы
     
+    # Обновляем специальную группу из второго исходника
+    if special_group and special_source:
+        special_source_groups = parse_m3u(special_source)
+        if special_group in special_source_groups:
+            print(f"Обновляется группа: {special_group} из второго исходника")
+            target_groups[special_group] = special_source_groups[special_group]
+        else:
+            print(f"Группа '{special_group}' не найдена во втором исходнике")
+
     # Формируем обновлённый плейлист
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -57,13 +66,23 @@ def update_playlist(source_url, target_url, output_file):
 
 # Основная функция
 if __name__ == "__main__":
-    # URL исходного и целевого плейлистов
-    source_url = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
+    # URL исходных плейлистов
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
+    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
     target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u"
     output_file = "mpll.m3u"
 
+    # Название группы для обновления из второго исходника
+    special_group = "Lime (VPN 🇷🇺)"
+
     # Обновляем плейлист
     try:
-        update_playlist(source_url, target_url, output_file)
+        update_playlist(
+            source_urls=[source_url_1, source_url_2],
+            target_url=target_url,
+            output_file=output_file,
+            special_group=special_group,
+            special_source=source_url_2
+        )
     except Exception as e:
         print(f"Ошибка: {e}")
