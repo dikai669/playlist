@@ -46,5 +46,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-update playlist"
+            git pull origin main --rebase  # Синхронизируем локальную копию с удалённой
             git push
           fi
