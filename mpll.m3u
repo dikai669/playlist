@@ -6181,6 +6181,448 @@ https://mhd128.iptv2022.com/p/9qZLstkot0G7mfujyVIhow,1742677222/streaming/sila/3
 #EXTINF:-1 30696" catchup="default" group-title="Lime (VPN 🇷🇺)", Sumiko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/uxAOXajPCFhsZoafkDVV-w,1742677222/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎НТВ HD" tvg-logo="https://img.logo-cdn.cc/ntv.png" group-title="RU ▎GENERAL",RU ▎НТВ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38224
+#EXTINF:-1 tvg-ID="russia1.ru" tvg-name="RU ▎РОССИЯ 1" tvg-logo="https://img.logo-cdn.cc/russia1.png" group-title="RU ▎GENERAL",RU ▎РОССИЯ 1
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38226
+#EXTINF:-1 tvg-ID="vremya.ru" tvg-name="RU ▎ВРЕМЯ" tvg-logo="https://img.logo-cdn.cc/vremya.png" group-title="RU ▎GENERAL",RU ▎ВРЕМЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295393
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПЕРВЫЙ КАНАЛ (ЕВРОПА)" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПЕРВЫЙ КАНАЛ (ЕВРОПА)
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478579
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎РОССИЯ 1 HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎РОССИЯ 1 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478580
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎РОССИЯ К" tvg-logo="" group-title="RU ▎GENERAL",RU ▎РОССИЯ К
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478581
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТНТ4" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТНТ4
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478582
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЧЕ!" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ЧЕ!
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478583
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПЕРЕЦ INTERNATIONAL" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПЕРЕЦ INTERNATIONAL
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478584
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СТС HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎СТС HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478585
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СТС LOVE" tvg-logo="" group-title="RU ▎GENERAL",RU ▎СТС LOVE
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478586
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СТС INTERNATIONAL" tvg-logo="" group-title="RU ▎GENERAL",RU ▎СТС INTERNATIONAL
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478587
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎DOGHDY HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎DOGHDY HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478588
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МИР HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎МИР HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478589
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МИР 24 HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎МИР 24 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478590
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПЯТНИЦА! HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПЯТНИЦА! HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478591
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТВЦ HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТВЦ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478592
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МОСКВА 24" tvg-logo="" group-title="RU ▎GENERAL",RU ▎МОСКВА 24
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478593
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТЕЛЕКАНАЛ 360 HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТЕЛЕКАНАЛ 360 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478594
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎8 КАНАЛ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎8 КАНАЛ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478595
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ОТР HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ОТР HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478596
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎PERVYY OBRAZOVETELNYNYY" tvg-logo="" group-title="RU ▎GENERAL",RU ▎PERVYY OBRAZOVETELNYNYY
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478597
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МУЛЬТИМУЗЫКА (МУЛЬТ И МУЗЫКА)" tvg-logo="" group-title="RU ▎GENERAL",RU ▎МУЛЬТИМУЗЫКА (МУЛЬТ И МУЗЫКА)
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478598
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎LIFE HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎LIFE HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478599
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ID XTRA HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ID XTRA HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478600
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎VIASAT EXPLORER" tvg-logo="" group-title="RU ▎GENERAL",RU ▎VIASAT EXPLORER
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478601
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПЕРВЫЙ КОСМИЧЕСКИЙ " tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПЕРВЫЙ КОСМИЧЕСКИЙ 
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478602
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TRAVEL+ ADVENTURE" tvg-logo="" group-title="RU ▎GENERAL",RU ▎TRAVEL+ ADVENTURE
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478603
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПРИКЛЮЧЕНИЯ HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПРИКЛЮЧЕНИЯ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478604
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТЕЛЕПУТЕШЕСТВИЯ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТЕЛЕПУТЕШЕСТВИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478605
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЕДА HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ЕДА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478606
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КУХНЯ TB HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎КУХНЯ TB HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478607
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎БОБЕР" tvg-logo="" group-title="RU ▎GENERAL",RU ▎БОБЕР
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478608
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЖИВИ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ЖИВИ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478609
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КТО ЕСТЬ КТО" tvg-logo="" group-title="RU ▎GENERAL",RU ▎КТО ЕСТЬ КТО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478610
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ВОПРОСЫ И ОТВЕТЫ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ВОПРОСЫ И ОТВЕТЫ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478611
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ОРУЖИЕ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ОРУЖИЕ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478612
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎DA VINCI LEARNING" tvg-logo="" group-title="RU ▎GENERAL",RU ▎DA VINCI LEARNING
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478613
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎24ДОК" tvg-logo="" group-title="RU ▎GENERAL",RU ▎24ДОК
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478614
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎НАНО ТВ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎НАНО ТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478615
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МАМА" tvg-logo="" group-title="RU ▎GENERAL",RU ▎МАМА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478616
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТБН" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТБН
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478617
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ENGLISH CLUB HD" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ENGLISH CLUB HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478618
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СОЮЗ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎СОЮЗ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478619
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎УСАДЬБА" tvg-logo="" group-title="RU ▎GENERAL",RU ▎УСАДЬБА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478620
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎РЕТРО" tvg-logo="" group-title="RU ▎GENERAL",RU ▎РЕТРО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478621
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЕГЭ ТВ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ЕГЭ ТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478622
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ДРАЙВ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ДРАЙВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478623
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТОЧКА TB" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ТОЧКА TB
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478624
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ОТКРЫТЫЙ МИР" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ОТКРЫТЫЙ МИР
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478625
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TVM CHANNEL" tvg-logo="" group-title="RU ▎GENERAL",RU ▎TVM CHANNEL
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478626
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПОДМОСКОВЬЕ" tvg-logo="" group-title="RU ▎GENERAL",RU ▎ПОДМОСКОВЬЕ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478627
+#EXTINF:-1 tvg-ID="matchtv.ru" tvg-name="RU ▎МАТЧ! HD" tvg-logo="https://img.logo-cdn.cc/matchtv.png" group-title="RU ▎SPORTS",RU ▎МАТЧ! HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38223
+#EXTINF:-1 tvg-ID="matcharena.ru" tvg-name="RU ▎МАТЧ! АРЕНА HD" tvg-logo="https://img.logo-cdn.cc/matcharena.png" group-title="RU ▎SPORTS",RU ▎МАТЧ! АРЕНА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38193
+#EXTINF:-1 tvg-ID="mtachpremier" tvg-name="RU ▎MАТЧ! ПРЕМЬЕР HD" tvg-logo="https://img.logo-cdn.cc/matchpremer.png" group-title="RU ▎SPORTS",RU ▎MАТЧ! ПРЕМЬЕР HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/468168
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МАТЧ! ИГРА HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎МАТЧ! ИГРА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478570
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МАТЧ! СТРАНА" tvg-logo="" group-title="RU ▎SPORTS",RU ▎МАТЧ! СТРАНА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478571
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МАТЧ! БОЕЦ HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎МАТЧ! БОЕЦ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478578
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МАТЧ! ПРЕМЬЕР HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎МАТЧ! ПРЕМЬЕР HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478572
+#EXTINF:-1 tvg-ID="matchfutbol1.ru" tvg-name="RU ▎МАТЧ! ФУТБОЛ 1 HD" tvg-logo="https://img.logo-cdn.cc/matchfootball1.png" group-title="RU ▎SPORTS",RU ▎МАТЧ! ФУТБОЛ 1 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38191
+#EXTINF:-1 tvg-ID="matchfutbol2.ru" tvg-name="RU ▎МАТЧ! ФУТБОЛ 2 HD" tvg-logo="https://img.logo-cdn.cc/matchfootball2.png" group-title="RU ▎SPORTS",RU ▎МАТЧ! ФУТБОЛ 2 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38190
+#EXTINF:-1 tvg-ID="matchfutbol3.ru" tvg-name="RU ▎МАТЧ! ФУТБОЛ 3 HD" tvg-logo="https://img.logo-cdn.cc/matchfootball3.png" group-title="RU ▎SPORTS",RU ▎МАТЧ! ФУТБОЛ 3 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38189
+#EXTINF:-1 tvg-ID="eurosport1.ru" tvg-name="RU ▎EUROSPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="RU ▎SPORTS",RU ▎EUROSPORT 1 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38187
+#EXTINF:-1 tvg-ID="eurosport2.ru" tvg-name="RU ▎EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="RU ▎SPORTS",RU ▎EUROSPORT 2 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38186
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎VIASAT SPORT HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎VIASAT SPORT HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478573
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎EXTREME SPORTS" tvg-logo="" group-title="RU ▎SPORTS",RU ▎EXTREME SPORTS
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478574
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КОННЫЙ МИР HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎КОННЫЙ МИР HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478575
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎АВТО 24 HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎АВТО 24 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478576
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎AВТО ПЛЮС HD" tvg-logo="" group-title="RU ▎SPORTS",RU ▎AВТО ПЛЮС HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478577
+#EXTINF:-1 tvg-ID="natgeo.ru" tvg-name="RU ▎NAT GEO HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="RU ▎DOCUMENTARY",RU ▎NAT GEO HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38172
+#EXTINF:-1 tvg-ID="natgeowild.ru" tvg-name="RU ▎NAT GEO WILD HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographicwild.png" group-title="RU ▎DOCUMENTARY",RU ▎NAT GEO WILD HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38176
+#EXTINF:-1 tvg-ID="viasathistory.ru" tvg-name="RU ▎VIASAT HISTORY" tvg-logo="https://img.logo-cdn.cc/viasathistory.png" group-title="RU ▎DOCUMENTARY",RU ▎VIASAT HISTORY
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38173
+#EXTINF:-1 tvg-ID="viasatnature.ru" tvg-name="RU ▎VIASAT NATURE HD" tvg-logo="https://img.logo-cdn.cc/viasatnature.png" group-title="RU ▎DOCUMENTARY",RU ▎VIASAT NATURE HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38179
+#EXTINF:-1 tvg-ID="animalplanet.ru" tvg-name="RU ▎ANIMAL PLANET HD" tvg-logo="https://img.logo-cdn.cc/animalplanet.png" group-title="RU ▎DOCUMENTARY",RU ▎ANIMAL PLANET HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38177
+#EXTINF:-1 tvg-ID="discoverychannel.ru" tvg-name="RU ▎DISCOVERY CHANNEL HD" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="RU ▎DOCUMENTARY",RU ▎DISCOVERY CHANNEL HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38178
+#EXTINF:-1 tvg-ID="travelchannel.ru" tvg-name="RU ▎TRAVEL HD" tvg-logo="https://img.logo-cdn.cc/travel.png" group-title="RU ▎DOCUMENTARY",RU ▎TRAVEL HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295394
+#EXTINF:-1 tvg-ID="history.ru" tvg-name="RU ▎HISTORY HD" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="RU ▎DOCUMENTARY",RU ▎HISTORY HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295407
+#EXTINF:-1 tvg-ID="rtgtv.ru" tvg-name="RU ▎RTG TV" tvg-logo="https://img.logo-cdn.cc/rtgtv.png" group-title="RU ▎DOCUMENTARY",RU ▎RTG TV
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38212
+#EXTINF:-1 tvg-ID="pervyykanal.ru" tvg-name="RU ▎ПЕРВЫЙ КАНАЛ" tvg-logo="https://img.logo-cdn.cc/channelone.png" group-title="RU ▎GENERAL",RU ▎ПЕРВЫЙ КАНАЛ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38225
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЖИВАЯ PRIRODA HD" tvg-logo="https://img.logo-cdn.cc/zivayapriroda.png" group-title="RU ▎DOCUMENTARY",RU ▎ЖИВАЯ PRIRODA HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295391
+#EXTINF:-1 tvg-ID="zhivayaplaneta.ru" tvg-name="RU ▎ЖИВАЯ ПЛАНЕТА" tvg-logo="https://img.logo-cdn.cc/zivayaplaneta.png" group-title="RU ▎DOCUMENTARY",RU ▎ЖИВАЯ ПЛАНЕТА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295392
+#EXTINF:-1 tvg-ID="sovershennosekretno.ru" tvg-name="RU ▎CОВЕРШЕННО СЕКРЕТНО" tvg-logo="https://img.logo-cdn.cc/sovershennosekretno.png" group-title="RU ▎DOCUMENTARY",RU ▎CОВЕРШЕННО СЕКРЕТНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295397
+#EXTINF:-1 tvg-ID="okhotarybalka.ru" tvg-name="RU ▎ОХОТА И РЫБАЛКА" tvg-logo="https://img.logo-cdn.cc/ohotairybalka.png" group-title="RU ▎DOCUMENTARY",RU ▎ОХОТА И РЫБАЛКА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295399
+#EXTINF:-1 tvg-ID="okhotnikrybolov.ru" tvg-name="RU ▎ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://img.logo-cdn.cc/ohotnikirybolov.png" group-title="RU ▎DOCUMENTARY",RU ▎ОХОТНИК И РЫБОЛОВ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295400
+#EXTINF:-1 tvg-ID="wildhunt.ru" tvg-name="RU ▎ДИКАЯ ОХОТА HD" tvg-logo="https://img.logo-cdn.cc/dikayaokhota.png" group-title="RU ▎DOCUMENTARY",RU ▎ДИКАЯ ОХОТА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295401
+#EXTINF:-1 tvg-ID="wildfishing.ru" tvg-name="RU ▎ДИКАЯ RYBALKA HD" tvg-logo="https://img.logo-cdn.cc/dikayarybalka.png" group-title="RU ▎DOCUMENTARY",RU ▎ДИКАЯ RYBALKA HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295402
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎OCEAN TV HD" tvg-logo="https://img.logo-cdn.cc/oceantv.png" group-title="RU ▎DOCUMENTARY",RU ▎OCEAN TV HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295403
+#EXTINF:-1 tvg-ID="nostalgia.ru" tvg-name="RU ▎НОСТАЛЬГИЯ" tvg-logo="https://img.logo-cdn.cc/nostalgija.png" group-title="RU ▎DOCUMENTARY",RU ▎НОСТАЛЬГИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295404
+#EXTINF:-1 tvg-ID="nauka20.ru" tvg-name="RU ▎НАУКА 2.0" tvg-logo="https://img.logo-cdn.cc/nakuta20.png" group-title="RU ▎DOCUMENTARY",RU ▎НАУКА 2.0
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295405
+#EXTINF:-1 tvg-ID="istoriya.ru" tvg-name="RU ▎ИСТОРИЯ" tvg-logo="https://img.logo-cdn.cc/istoria.png" group-title="RU ▎DOCUMENTARY",RU ▎ИСТОРИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295406
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ГЛАЗАМИ ТУРИСТА HD" tvg-logo="https://img.logo-cdn.cc/glasamiturista.png" group-title="RU ▎DOCUMENTARY",RU ▎ГЛАЗАМИ ТУРИСТА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295408
+#EXTINF:-1 tvg-ID="365dney.ru" tvg-name="RU ▎365 ДНЕЙ" tvg-logo="https://img.logo-cdn.cc/365dnei.png" group-title="RU ▎DOCUMENTARY",RU ▎365 ДНЕЙ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295409
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎В МИРЕ ЖИВОТНЫХ HD" tvg-logo="" group-title="RU ▎DOCUMENTARY",RU ▎В МИРЕ ЖИВОТНЫХ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478566
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ДОМАШНИЕ ЖИВОТНЫЕ" tvg-logo="" group-title="RU ▎DOCUMENTARY",RU ▎ДОМАШНИЕ ЖИВОТНЫЕ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478567
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МОЯ ПЛАНЕТА HD" tvg-logo="" group-title="RU ▎DOCUMENTARY",RU ▎МОЯ ПЛАНЕТА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478568
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎OKEAN TV" tvg-logo="" group-title="RU ▎DOCUMENTARY",RU ▎OKEAN TV
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478569
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎RT ENGLISH" tvg-logo="https://img.logo-cdn.cc/rthd.png" group-title="RU ▎NEWS",RU ▎RT ENGLISH
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38203
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПЕРВЫЙ КАНАЛ HD" tvg-logo="https://img.logo-cdn.cc/1tvruseurope.png" group-title="RU ▎GENERAL",RU ▎ПЕРВЫЙ КАНАЛ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/73244
+#EXTINF:-1 tvg-ID="russia24.ru" tvg-name="RU ▎РОССИЯ 24" tvg-logo="https://img.logo-cdn.cc/rossiya24.png" group-title="RU ▎NEWS",RU ▎РОССИЯ 24
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98665
+#EXTINF:-1 tvg-ID="rbktv.ru" tvg-name="RU ▎РБК HD" tvg-logo="https://img.logo-cdn.cc/rbktv.png" group-title="RU ▎NEWS",RU ▎РБК HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295389
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЕВРОНОВОСТИ" tvg-logo="" group-title="RU ▎NEWS",RU ▎ЕВРОНОВОСТИ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478558
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎CNN" tvg-logo="" group-title="RU ▎NEWS",RU ▎CNN
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478559
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎FRANCE 24" tvg-logo="" group-title="RU ▎NEWS",RU ▎FRANCE 24
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478560
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎RT DOC" tvg-logo="" group-title="RU ▎NEWS",RU ▎RT DOC
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478561
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎NHK WORLD TV HD" tvg-logo="" group-title="RU ▎NEWS",RU ▎NHK WORLD TV HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478562
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎БЕЛАРУСЬ 24" tvg-logo="" group-title="RU ▎NEWS",RU ▎БЕЛАРУСЬ 24
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478563
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎RTVI" tvg-logo="" group-title="RU ▎NEWS",RU ▎RTVI
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478564
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎УСПЕХ" tvg-logo="" group-title="RU ▎NEWS",RU ▎УСПЕХ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478565
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎EVROPA PLUS TV" tvg-logo="https://img.logo-cdn.cc/europaplustv.png" group-title="RU ▎MUSIC",RU ▎EVROPA PLUS TV
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38180
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MUSIC BOX RUSSIAN" tvg-logo="https://img.logo-cdn.cc/musicbox.png" group-title="RU ▎MUSIC",RU ▎MUSIC BOX RUSSIAN
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38188
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЛЯ-МИНОР" tvg-logo="https://img.logo-cdn.cc/laminore.png" group-title="RU ▎MUSIC",RU ▎ЛЯ-МИНОР
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38204
+#EXTINF:-1 tvg-ID="muz1.ru" tvg-name="RU ▎МУЗЫКА ПЕРВОГО" tvg-logo="https://img.logo-cdn.cc/muzykapervogo.png" group-title="RU ▎MUSIC",RU ▎МУЗЫКА ПЕРВОГО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98668
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MTV HITS" tvg-logo="" group-title="RU ▎MUSIC",RU ▎MTV HITS
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478544
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MTV ROCKS" tvg-logo="" group-title="RU ▎MUSIC",RU ▎MTV ROCKS
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478545
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MTV LIVE HD" tvg-logo="" group-title="RU ▎MUSIC",RU ▎MTV LIVE HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478546
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MCM" tvg-logo="" group-title="RU ▎MUSIC",RU ▎MCM
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478547
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎VH1 EUROPE" tvg-logo="" group-title="RU ▎MUSIC",RU ▎VH1 EUROPE
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478548
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MEZZO HD" tvg-logo="" group-title="RU ▎MUSIC",RU ▎MEZZO HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478549
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МУЗ ТВ HD" tvg-logo="" group-title="RU ▎MUSIC",RU ▎МУЗ ТВ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478550
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎1HD" tvg-logo="" group-title="RU ▎MUSIC",RU ▎1HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478551
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎РУССКИЙ ХИТ" tvg-logo="" group-title="RU ▎MUSIC",RU ▎РУССКИЙ ХИТ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478552
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎THT MUSIC" tvg-logo="" group-title="RU ▎MUSIC",RU ▎THT MUSIC
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478553
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎BRIDGE TV" tvg-logo="" group-title="RU ▎MUSIC",RU ▎BRIDGE TV
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478554
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ШАНСОН ТВ" tvg-logo="" group-title="RU ▎MUSIC",RU ▎ШАНСОН ТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478555
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎DANCE TV" tvg-logo="" group-title="RU ▎MUSIC",RU ▎DANCE TV
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478556
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ICONCERTS HD" tvg-logo="" group-title="RU ▎MUSIC",RU ▎ICONCERTS HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478557
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎AMEDIA 1 HD" tvg-logo="https://img.logo-cdn.cc/amedia1.png" group-title="RU ▎MOVIES",RU ▎AMEDIA 1 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38208
+#EXTINF:-1 tvg-ID="а2.ru" tvg-name="RU ▎AMEDIA 2" tvg-logo="https://img.logo-cdn.cc/amedia2.png" group-title="RU ▎MOVIES",RU ▎AMEDIA 2
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38207
+#EXTINF:-1 tvg-ID="amediahit.ru" tvg-name="RU ▎AMEDIA HIT HD" tvg-logo="https://img.logo-cdn.cc/amediahit.png" group-title="RU ▎MOVIES",RU ▎AMEDIA HIT HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38206
+#EXTINF:-1 tvg-ID="amediapremium.ru" tvg-name="RU ▎AMEDIA PREMIUM HD" tvg-logo="https://img.logo-cdn.cc/amediapremium.png" group-title="RU ▎MOVIES",RU ▎AMEDIA PREMIUM HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38205
+#EXTINF:-1 tvg-ID="tv1000.ru" tvg-name="RU ▎TV 1000 HD" tvg-logo="https://img.logo-cdn.cc/tv1000.png" group-title="RU ▎MOVIES",RU ▎TV 1000 HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38200
+#EXTINF:-1 tvg-ID="tv1000russkoekino.ru" tvg-name="RU ▎TV1000 РУССКОЕ КИНО" tvg-logo="https://img.logo-cdn.cc/tv1000worldkino.png" group-title="RU ▎MOVIES",RU ▎TV1000 РУССКОЕ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98680
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TV1000 РУССКОЕ HD" tvg-logo="https://img.logo-cdn.cc/tv1000worldkino.png" group-title="RU ▎MOVIES",RU ▎TV1000 РУССКОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98681
+#EXTINF:-1 tvg-ID="tv1000actioneast.ru" tvg-name="RU ▎TV1000 ДЕЙСТВИЕ HD" tvg-logo="https://img.logo-cdn.cc/tv1000action.png" group-title="RU ▎MOVIES",RU ▎TV1000 ДЕЙСТВИЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98682
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TV1000 РУССКОЕ КИНО" tvg-logo="" group-title="RU ▎MOVIES",RU ▎TV1000 РУССКОЕ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478518
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ПОБЕДА" tvg-logo="https://img.logo-cdn.cc/pobeda.png" group-title="RU ▎MOVIES",RU ▎ПОБЕДА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38199
+#EXTINF:-1 tvg-ID="kinoserija.ru" tvg-name="RU ▎КИНОСЕРИЯ HD" tvg-logo="https://img.logo-cdn.cc/kinoseriya.png" group-title="RU ▎MOVIES",RU ▎КИНОСЕРИЯ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38209
+#EXTINF:-1 tvg-ID="kinopremiera.ru" tvg-name="RU ▎КИНОПРЕМЬЕРА HD" tvg-logo="https://img.logo-cdn.cc/kinoprimera.png" group-title="RU ▎MOVIES",RU ▎КИНОПРЕМЬЕРА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38210
+#EXTINF:-1 tvg-ID="techno24.ru" tvg-name="RU ▎ТЕХНО 24" tvg-logo="https://img.logo-cdn.cc/t24.png" group-title="RU ▎MOVIES",RU ▎ТЕХНО 24
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38214
+#EXTINF:-1 tvg-ID="rodnoekino.ru" tvg-name="RU ▎РОДНОЕ КИНО" tvg-logo="https://img.logo-cdn.cc/rodnoekino.png" group-title="RU ▎MOVIES",RU ▎РОДНОЕ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38215
+#EXTINF:-1 tvg-ID="domkinopremium.ru" tvg-name="RU ▎ПРЕМИАЛЬНОЕ HD" tvg-logo="https://img.logo-cdn.cc/domkinopremium.png" group-title="RU ▎MOVIES",RU ▎ПРЕМИАЛЬНОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38216
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОСЕРИЯ" tvg-logo="https://img.logo-cdn.cc/rodnoekino.png" group-title="RU ▎MOVIES",RU ▎КИНОСЕРИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38217
+#EXTINF:-1 tvg-ID="tv3.ru" tvg-name="RU ▎ТВ3" tvg-logo="https://img.logo-cdn.cc/tv3.png" group-title="RU ▎MOVIES",RU ▎ТВ3
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38221
+#EXTINF:-1 tvg-ID="rentv.ru" tvg-name="RU ▎РЕН ТВ HD" tvg-logo="https://img.logo-cdn.cc/rentv.png" group-title="RU ▎MOVIES",RU ▎РЕН ТВ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/61665
+#EXTINF:-1 tvg-ID="russkijextreme.ru" tvg-name="RU ▎RUSSKIY EKSTRIM HD" tvg-logo="https://img.logo-cdn.cc/russkiyekstrim.png" group-title="RU ▎MOVIES",RU ▎RUSSKIY EKSTRIM HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98660
+#EXTINF:-1 tvg-ID="russkijroman.ru" tvg-name="RU ▎РУССКИЙ РОМАН HD" tvg-logo="https://img.logo-cdn.cc/russkiyroman.png" group-title="RU ▎MOVIES",RU ▎РУССКИЙ РОМАН HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98661
+#EXTINF:-1 tvg-ID="russkijillusion.ru" tvg-name="RU ▎РУССКИЙ ИЛЛЮЗИОН HD" tvg-logo="https://img.logo-cdn.cc/russkiyillyuzion.png" group-title="RU ▎MOVIES",RU ▎РУССКИЙ ИЛЛЮЗИОН HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98662
+#EXTINF:-1 tvg-ID="russkijdetectiv.ru" tvg-name="RU ▎РУССКИЙ ДЕТЕКТИВ" tvg-logo="https://img.logo-cdn.cc/russkiydetektiv.png" group-title="RU ▎MOVIES",RU ▎РУССКИЙ ДЕТЕКТИВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98663
+#EXTINF:-1 tvg-ID="russkijbestseller.ru" tvg-name="RU ▎РУССКИЙ БЕСТСЕЛЛЕР" tvg-logo="https://img.logo-cdn.cc/russkiybestseller.png" group-title="RU ▎MOVIES",RU ▎РУССКИЙ БЕСТСЕЛЛЕР
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98664
+#EXTINF:-1 tvg-ID="nashenovoyekino.ru" tvg-name="RU ▎НАШЕ НОВОЕ КИНО" tvg-logo="https://img.logo-cdn.cc/nashenovoekino.png" group-title="RU ▎MOVIES",RU ▎НАШЕ НОВОЕ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98666
+#EXTINF:-1 tvg-ID="mult.ru" tvg-name="RU ▎АРСЕНАЛ HD" tvg-logo="https://img.logo-cdn.cc/multy.png" group-title="RU ▎MOVIES",RU ▎АРСЕНАЛ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98667
+#EXTINF:-1 tvg-ID="kinohit.ru" tvg-name="RU ▎КИНОХИТ HD" tvg-logo="https://img.logo-cdn.cc/kinohit.png" group-title="RU ▎MOVIES",RU ▎КИНОХИТ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98670
+#EXTINF:-1 tvg-ID="evrokino.ru" tvg-name="RU ▎EВРОКИНО" tvg-logo="https://img.logo-cdn.cc/evrokino.png" group-title="RU ▎MOVIES",RU ▎EВРОКИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98671
+#EXTINF:-1 tvg-ID="domkinopremium.ru" tvg-name="RU ▎ДОМ КИНО ПРЕМИУМ HD" tvg-logo="https://img.logo-cdn.cc/domkinopremium.png" group-title="RU ▎MOVIES",RU ▎ДОМ КИНО ПРЕМИУМ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98672
+#EXTINF:-1 tvg-ID="domkino.ru" tvg-name="RU ▎ДОМ КИНО" tvg-logo="https://img.logo-cdn.cc/domkino.png" group-title="RU ▎MOVIES",RU ▎ДОМ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98673
+#EXTINF:-1 tvg-ID="zvezda.ru" tvg-name="RU ▎ЗВЕЗДА HD" tvg-logo="https://img.logo-cdn.cc/zveda.png" group-title="RU ▎MOVIES",RU ▎ЗВЕЗДА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295390
+#EXTINF:-1 tvg-ID="domashniy.ru" tvg-name="RU ▎ДОМАШНИЙ HD" tvg-logo="https://img.logo-cdn.cc/domashniy.png" group-title="RU ▎MOVIES",RU ▎ДОМАШНИЙ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/569662
+#EXTINF:-1 tvg-ID="5kanal.ru" tvg-name="RU ▎5 КАНАЛ" tvg-logo="https://img.logo-cdn.cc/5kanal.png" group-title="RU ▎MOVIES",RU ▎5 КАНАЛ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/569663
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎MGM HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎MGM HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478519
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОМИКС" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНОМИКС
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478520
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОСВИДАНИЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНОСВИДАНИЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478521
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОКОМЕДИЯ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНОКОМЕДИЯ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478522
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МУЖСКОЕ КИНО HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎МУЖСКОЕ КИНО HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478523
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОСЕМЬЯ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНОСЕМЬЯ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478524
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНО ТВ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНО ТВ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478525
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎RUSSKAYA КОМЕДИЯ" tvg-logo="" group-title="RU ▎MOVIES",RU ▎RUSSKAYA КОМЕДИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478526
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТАЙНА" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ТАЙНА
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478527
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КИНОПОКАЗ" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КИНОПОКАЗ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478528
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ШОКИРУЮЩЕЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ШОКИРУЮЩЕЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478529
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КОМЕДИЙНОЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎КОМЕДИЙНОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478530
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ОСТРОСЮЖЕТНОЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ОСТРОСЮЖЕТНОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478531
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СТРАШНОЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎СТРАШНОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478532
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎НАШЕ КРУТОЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎НАШЕ КРУТОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478533
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЕВРОКИНО HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ЕВРОКИНО HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478534
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ИЛЛЮЗИОН+ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ИЛЛЮЗИОН+ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478535
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TV XXI" tvg-logo="" group-title="RU ▎MOVIES",RU ▎TV XXI
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478536
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎НСТ" tvg-logo="" group-title="RU ▎MOVIES",RU ▎НСТ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478537
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎BOLLYWOOD HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎BOLLYWOOD HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478538
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ИНДИЙСКОЕ КИНО" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ИНДИЙСКОЕ КИНО
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478539
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎SET HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎SET HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478540
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎SONY SCI-FI" tvg-logo="" group-title="RU ▎MOVIES",RU ▎SONY SCI-FI
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478541
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎SONY TURBO" tvg-logo="" group-title="RU ▎MOVIES",RU ▎SONY TURBO
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478542
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ДУШЕВНОЕ HD" tvg-logo="" group-title="RU ▎MOVIES",RU ▎ДУШЕВНОЕ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478543
+#EXTINF:-1 tvg-ID="nickelodeon.ru" tvg-name="RU ▎NICKELODEON HD" tvg-logo="https://img.logo-cdn.cc/nickelodeon.png" group-title="RU ▎KIDS",RU ▎NICKELODEON HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38171
+#EXTINF:-1 tvg-ID="detskijmir.ru" tvg-name="RU ▎УНИКУМ MIR" tvg-logo="https://img.logo-cdn.cc/detskiymir.png" group-title="RU ▎KIDS",RU ▎УНИКУМ MIR
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98674
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЗДОРОВОЕ ТВ" tvg-logo="https://img.logo-cdn.cc/zdorowayazhizn.png" group-title="RU ▎KIDS",RU ▎ЗДОРОВОЕ ТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295410
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СОЛНЦЕ" tvg-logo="https://img.logo-cdn.cc/disney.png" group-title="RU ▎KIDS",RU ▎СОЛНЦЕ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/787678
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎NICKELODEON" tvg-logo="https://img.logo-cdn.cc/nickelodeon.png" group-title="RU ▎KIDS",RU ▎NICKELODEON
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/787681
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КАРУСЕЛЬ HD" tvg-logo="" group-title="RU ▎KIDS",RU ▎КАРУСЕЛЬ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478505
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎TIJI" tvg-logo="" group-title="RU ▎KIDS",RU ▎TIJI
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478506
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎GULLI" tvg-logo="" group-title="RU ▎KIDS",RU ▎GULLI
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478507
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎JIM JAM" tvg-logo="" group-title="RU ▎KIDS",RU ▎JIM JAM
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478508
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎CARTOON NETWORK" tvg-logo="" group-title="RU ▎KIDS",RU ▎CARTOON NETWORK
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478509
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎УНИКУМ HD" tvg-logo="" group-title="RU ▎KIDS",RU ▎УНИКУМ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478510
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎2X2" tvg-logo="" group-title="RU ▎KIDS",RU ▎2X2
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478511
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МУЛЬТИЛАНДИЯ" tvg-logo="" group-title="RU ▎KIDS",RU ▎МУЛЬТИЛАНДИЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478512
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎МУЛЬТ HD" tvg-logo="" group-title="RU ▎KIDS",RU ▎МУЛЬТ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478513
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎РАДОСТЬ МОЯ" tvg-logo="" group-title="RU ▎KIDS",RU ▎РАДОСТЬ МОЯ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478514
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎BOOMERANG" tvg-logo="" group-title="RU ▎KIDS",RU ▎BOOMERANG
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478515
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КАПИТАН ФАНТАСТИКА HD" tvg-logo="" group-title="RU ▎KIDS",RU ▎КАПИТАН ФАНТАСТИКА HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478516
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎GAME SHOW" tvg-logo="" group-title="RU ▎KIDS",RU ▎GAME SHOW
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478517
+#EXTINF:-1 tvg-ID="tlc.ru" tvg-name="RU ▎TLC HD" tvg-logo="https://img.logo-cdn.cc/tlc.png" group-title="RU ▎ENTERTAINMENT",RU ▎TLC HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38170
+#EXTINF:-1 tvg-ID="foxlife.ru" tvg-name="RU ▎FOX LIFE HD" tvg-logo="https://img.logo-cdn.cc/foxlife.png" group-title="RU ▎ENTERTAINMENT",RU ▎FOX LIFE HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38174
+#EXTINF:-1 tvg-ID="fox.ru" tvg-name="RU ▎FOX HD" tvg-logo="https://img.logo-cdn.cc/fox.png" group-title="RU ▎ENTERTAINMENT",RU ▎FOX HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38175
+#EXTINF:-1 tvg-ID="paramountcomedy.ru" tvg-name="RU ▎PARAMOUNT COMEDY HD" tvg-logo="https://img.logo-cdn.cc/paramountcomedy.png" group-title="RU ▎ENTERTAINMENT",RU ▎PARAMOUNT COMEDY HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38184
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ZEE TV RUSSIA" tvg-logo="https://img.logo-cdn.cc/zeetvhd.png" group-title="RU ▎ENTERTAINMENT",RU ▎ZEE TV RUSSIA
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38194
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎КВН ТВ" tvg-logo="https://img.logo-cdn.cc/kvntv.png" group-title="RU ▎ENTERTAINMENT",RU ▎КВН ТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38195
+#EXTINF:-1 tvg-ID="rtrplaneta.ru" tvg-name="RU ▎ПЛАНЕТА РТР" tvg-logo="https://img.logo-cdn.cc/rtrplaneta.png" group-title="RU ▎ENTERTAINMENT",RU ▎ПЛАНЕТА РТР
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38196
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТНТ HD" tvg-logo="https://img.logo-cdn.cc/tnt.png" group-title="RU ▎ENTERTAINMENT",RU ▎ТНТ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/38222
+#EXTINF:-1 tvg-ID="telekanalkxl.ru" tvg-name="RU ▎KHL TV HD" tvg-logo="https://img.logo-cdn.cc/khltv.png" group-title="RU ▎ENTERTAINMENT",RU ▎KHL TV HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98669
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎HOME 4K" tvg-logo="https://img.logo-cdn.cc/home4k.png" group-title="RU ▎ENTERTAINMENT",RU ▎HOME 4K
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/98678
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТВЦ" tvg-logo="https://img.logo-cdn.cc/tvci.png" group-title="RU ▎ENTERTAINMENT",RU ▎ТВЦ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295388
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎БОКС TB" tvg-logo="https://img.logo-cdn.cc/bokstv.png" group-title="RU ▎ENTERTAINMENT",RU ▎БОКС TB
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295395
+#EXTINF:-1 tvg-ID="sarafan.ru" tvg-name="RU ▎САРАФАН" tvg-logo="https://img.logo-cdn.cc/sarafan.png" group-title="RU ▎ENTERTAINMENT",RU ▎САРАФАН
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295396
+#EXTINF:-1 tvg-ID="futboltv.ru" tvg-name="RU ▎ФУТБОЛ HD" tvg-logo="https://img.logo-cdn.cc/telekanalfutbol.png" group-title="RU ▎ENTERTAINMENT",RU ▎ФУТБОЛ HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/295411
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎СПАС" tvg-logo="https://img.logo-cdn.cc/spas.png" group-title="RU ▎ENTERTAINMENT",RU ▎СПАС
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/756473
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ЮТВ" tvg-logo="" group-title="RU ▎ENTERTAINMENT",RU ▎ЮТВ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478499
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎FINE LIVING" tvg-logo="" group-title="RU ▎ENTERTAINMENT",RU ▎FINE LIVING
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478500
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎ТЕЛЕКАФЕ" tvg-logo="" group-title="RU ▎ENTERTAINMENT",RU ▎ТЕЛЕКАФЕ
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478501
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎WORLD FASHION HD" tvg-logo="" group-title="RU ▎ENTERTAINMENT",RU ▎WORLD FASHION HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478502
+#EXTINF:-1 tvg-ID="" tvg-name="RU ▎FASHION TV HD" tvg-logo="" group-title="RU ▎ENTERTAINMENT",RU ▎FASHION TV HD
+http://line.4k-beast.co:80/80:8A:BD:AD:78:94/2525AC/1478503
 #EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые [ВХОД СТРОГО 18+]", Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="kino18plusint-tviksel" group-title="Взрослые [ВХОД СТРОГО 18+]", Кино 18+ International
