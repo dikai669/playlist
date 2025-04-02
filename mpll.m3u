@@ -4277,6 +4277,2713 @@ http://dmi3y-tv.ru/hls/film/IMPLANT.m3u8
 http://dmi3y-tv.ru/hls/film/GUNDALA_SYN_MOLNII.m3u8
 #EXTINF:-1  group-title="ФИЛЬМЫ" ,Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
 http://dmi3y-tv.ru/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:0, Пираты Карибского моря: Проклятие Черной жемчужины (2003) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Piraty_Karibskogo_morya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираты Карибского моря: Сундук мертвеца (2006) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Piraty_Karibskogo_morya_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираты Карибского моря: На краю Света (2007) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Piraty_Karibskogo_morya_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираты Карибского моря: На странных берегах (2011) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Piraty_Karibskogo_morya_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираты Карибского моря: Мертвецы не рассказывают сказки (2017) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Piraty_Karibskogo_morya_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Эдвард руки-ножницы (1990) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Edvard_ruki_nozhnicy_1990.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сонная Лощина (1999) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Sonnaya_loshina.hd.mp4
+#EXTINF:0, Страх и ненависть в Лас-Вегасе (1998) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Strah_i_nenavist_v_Las_Vegase_1998.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Черная месса (2015) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chernaya_messa.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чарли и шоколадная фабрика (2005) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Charli_i_shokoladnaya_fabrika.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Алиса в стране чудес (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Alisa_v_strane_chudes.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Алиса в Зазеркалье (2016) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Alisa_v_Zazerkale_2016.hd.mp4
+#EXTINF:0, Человек, который плакал (2000) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_kotoruy_plakal.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тайное окно (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Taynoe_okno.hd.mp4
+#EXTINF:0, Одинокий рейнджер (2013) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Odinokiy_reyndzher.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Во все тяжкое (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vo_vse_tyazhkoe.hd.mp4
+#EXTINF:0, В ожидании варваров (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/V_ozhidanii_varvarov.hd.mp4
+#EXTINF:0, Донни Браско (1997) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Donni_Brasko.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Великий (2020) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Velikiy.hd.mp4
+#EXTINF:0, Из ада (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Iz_ada.hd.mp4
+#EXTINF:0, Турист (2010) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Turist_2010.hd.mp4
+#EXTINF:0, Ромовый дневник (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Romovyy_dnevnik.hd.mp4
+#EXTINF:0, Девятые врата (1999) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Devyatye_vrata.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Город лжи (2018) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Gorod_lzhi.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Эд Вуд (1994) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Ed_Vud_1994.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мордекай (2015) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mordekay_2015.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джонни Д. (2009) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhonni_D_2009.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Суини Тодд, демон-парикмахер с Флит-стрит (2007) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Suini_Todd_2007.hd.mp4
+#EXTINF:0, Жена астронавта (1999) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhena_astronavta_1999.hd.mp4
+#EXTINF:0, Бивень (2014) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Biven_2014.hd.mp4
+#EXTINF:0, Индиана Джонс: В поисках утраченного ковчега (1981) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Indiana_Dzhons.hd.mp4
+#EXTINF:0, Индиана Джонс и Храм судьбы (1984) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Indiana_Dzhons_2.hd.mp4
+#EXTINF:0, Индиана Джонс и последний крестовый поход (1989) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Indiana_Dzhons_3.hd.mp4
+#EXTINF:0, Индиана Джонс и Королевство хрустального черепа (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Indiana_Dzhons_4.hd.mp4
+#EXTINF:0, Индиана Джонс и колесо судьбы (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Indiana_Dzhons_i_koleso_sudby_2023.hd.mp4
+#EXTINF:0, КРЁСТНЫЙ 0ТЕЦ (1972) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krestnuy_otec.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, КРЁСТНЫЙ 0ТЕЦ 2 (1974) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krestnuy_otec_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, КРЁСТНЫЙ 0ТЕЦ 3 (1990) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Krestnuy_otec_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В (1984) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 2: МЕСТЬ ФРЕДДИ (1985) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_2.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 3: В0ИНЫ СНА (1987) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_3.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 4: П0ВЕЛИТЕЛЬ СНА (1988) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_4.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 5: ДИТЯ СНА (1989) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_5.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 6: ФРЕДДИ МЁРТВ (1991) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_6.hd.mp4
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В 7 (1994) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_7.hd.mp4
+#EXTINF:0, ФРЕДДИ ПР0ТИВ ДЖЕЙС0НА (2003) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Freddi_protiv_Dzheysona.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, К0ШМАР НА УЛИЦЕ ВЯ30В (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Koshmar_na_ulice_Vyazov_2010.hd.mp4
+#EXTINF:0, 0Х0ТА НА В0Р0В (2018) RU 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ohota_na_vorov.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 0Х0ТА НА В0Р0В 2: ПАНТЕРА (2025) RU 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Ohota_na_vorov_2_2025.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения (2000) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения 2 (2003) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения 3 (2006) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения 4 (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения 5 (2011) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения. Аквапарк (2019) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Punkt_naznacheniya_akvapark_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения: Смайл: Полароид (2019) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Punkt_naznacheniya_Smayl.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пункт назначения: Поезд № 13 (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Punkt_naznacheniya_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бегущий в лабиринте (2014) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Begushiy_v_labirinte.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бегущий в лабиринте: Испытание огнём (2015) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Begushiy_v_labirinte_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бегущий в лабиринте: Лекарство от смерти (2018) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Begushiy_v_labirinte_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Терминатор (1984) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Terminator.hd.mp4
+#EXTINF:0, Терминатор 2: Судный день (1991) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Terminator_2.hd.mp4
+#EXTINF:0, Терминатор 3: Восстание машин (2003) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Terminator_3.hd.mp4
+#EXTINF:0, Терминатор: Да придёт спаситель (2009) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Terminator_4.hd.mp4
+#EXTINF:0, Терминатор: Генезис (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Terminator_5.hd.mp4
+#EXTINF:0, Терминатор: Темные судьбы (2019) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Terminator_6_2019.hd.mp4
+#EXTINF:0, Бегущий человек (1987) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Begushiy_chelovek.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Вспомнить все (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vspomnit_vse_1990.hd.mp4
+#EXTINF:0, Вспомнить все (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vspomnit_vse.hd.mp4
+#EXTINF:0, Джуниор (1994) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Dzhunior_1994.hd.mp4
+#EXTINF:0, Подарок на Рождество (1996) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Podarok_na_Rozhdestvo_1996.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Детсадовский полицейский (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Detsadovskiy_policeyskiy_1990.hd.mp4
+#EXTINF:0, Конан варвар (1982) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Conan_Varvar_1982.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Конан-разрушитель (1984) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Konan_razrushitel.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Рыжая Соня (1985) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ryzhaya_Sonya_1985.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Возвращение героя (2013) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Vozvraschenie_geroya_2013.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Последний киногерой (1993) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Posledniy_kinogeroy_1993.hd.mp4
+#EXTINF:0, Красная жара (1988) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Krasnaya_zhara_1988.hd.mp4
+#EXTINF:0, Правдивая ложь (1994) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pravdivaya_lozh_1994.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Шестой день (2000) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Shestoy_den.hd.mp4
+#EXTINF:0, Коммандос (1985) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kommandos_1985.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Последствия (2016) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Posledstviya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Стиратель (1996) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Stiratel_1996.hd.mp4
+#EXTINF:0, Конец света (1999) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Konec_sveta_1999.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Убить Гюнтера (2017) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ubit_Gyuntera.hd.mp4
+#EXTINF:0, Такси (1998) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Taksi.hd.mp4
+#EXTINF:0, Такси 2 (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Taksi_2.hd.mp4
+#EXTINF:0, Такси 3 (2003) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Taksi_3.hd.mp4
+#EXTINF:0, Такси 4 (2007) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Taksi_4.hd.mp4
+#EXTINF:0, Такси 5 (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Taksi_5.hd.mp4
+#EXTINF:0, Эйс Вентура (1993) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Ace.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Эйс Вентура 2 (1995) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Ace_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Маска (1994) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Maska.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сын маски (2005) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Syn_maski_2005.mp4/index-v1-a1.m3u8
+#EXTINF:0, Незнакомцы: Жестокие игры (2018) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Neznakomcy_zhestokie_igry.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Незнакомцы: Начало (2024) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Neznakomcy_2024.hd.mp4
+#EXTINF:0, Стук в дверь (2023) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Stuk_v_dver.hd.mp4
+#EXTINF:0, Скорость: Автобус 657 (2015) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skorost_avtobus_657.hd.mp4
+#EXTINF:0, Армия мертвецов (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Armiya_mertvecov.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Армия воров (2021) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Armiya_vorov.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и философский камень (2001) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_filosofskiy_kamen.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и тайная комната (2002) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_taynaya_komnata.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и узник Азкабана (2004) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_uznik_Azkabana.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и кубок огня (2005) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_kubok_ognya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и орден Феникса (2007) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_orden_Feniksa.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и Принц-полукровка (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_princ_polukrovka.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и Дары смерти: Часть 1 (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_ds_1.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер и Дары смерти: Часть 2 (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_i_ds_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гарри Поттер 20 лет спустя: Возвращение в Хогвартс (2022) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Garri_Potter_20.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепкий орешек (1988) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krepkiy_oreshek_1.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепкий орешек 2 (1990) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krepkiy_oreshek_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепкий орешек 3 (1995) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Krepkiy_oreshek_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепкий орешек 4 (2007) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krepkiy_oreshek_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепкий орешек 5: Хороший день, чтобы умереть (2013) 
+#EXTGRP:Фильмы 2
+https://marionetka.com/player/krepkii-oreshek-horoshii-den-chtob-umeret.mp4
+#EXTINF:0, Один дома (1990) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Odin_doma.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Один дома 2: Затерянный в Нью-Йорке (1992) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Odin_doma_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Один дома 3 (1997) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Odin_doma_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Один дома 4 (2002) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Odin_doma_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Один дома 5 (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Odin_doma_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Один дома 6: Перезагрузка (2021) 
+#EXTGRP:Фильмы 2
+https://marionetka.com/player/odin-doma-perezagruzka.mp4
+#EXTINF:0, Не дыши (2016) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ne_dyshi.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Не дыши 2 (2021) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ne_dyshi_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Скала (1996) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skala.hd.mp4
+#EXTINF:0, Няня (2020) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Nyanya_2020.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мэри Поппинс возвращается (2018) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Meri_Poppins_vozvrashaetsya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бросок кобры (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Brosok_kobry.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бросок кобры 2 (2013) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Brosok_kobry_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бросок кобры: Снейк Айз (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Brosok_kobry_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Никита (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Nikita_1990.hd.mp4
+#EXTINF:0, Жанна дАрк (1999) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Zhanna_Dark_1999.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж (2001) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Двойной форсаж (2003) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тройной форсаж: Токийский дрифт (2006) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 4 (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 5 (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 6 (2013) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 7 (2015) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_7.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 8 (2017) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_8.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 9 (2021) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_9.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Форсаж 10 (2023) 
+#EXTGRP:Фильмы 2
+https://marionetka.com/player/forsazhnyj-iks.mp4
+#EXTINF:0, Форсаж: Хоббс и Шоу (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Forsazh_9hs.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пятый элемент (1997) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Pyatyy_element_1997.hd.mp4
+#EXTINF:0, Мементо (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Memento_2000.hd.mp4
+#EXTINF:0, Леон (1994) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Leon.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ниндзя-убийца (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Nindzya_ubiyca.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Выживший (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vyzhivshiy.hd.mp4
+#EXTINF:0, Трансформеры (2007) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Transformery.hd.mp4
+#EXTINF:0, Трансформеры: Месть падших (2009) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Transformery_2.hd.mp4
+#EXTINF:0, Трансформеры 3: Темная сторона Луны (2011) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Transformery_3.hd.mp4
+#EXTINF:0, Трансформеры: Эпоха истребления (2014) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Transformery_4.hd.mp4
+#EXTINF:0, Трансформеры: Последний рыцарь (2017) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Transformery_5.hd.mp4
+#EXTINF:0, Трансформеры: Восхождение Звероботов (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Transformery_voshozhdenie.hd.mp4
+#EXTINF:0, Бамблби (2018) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bamblbi_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Игра Эндера (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Igra_Endera.hd.mp4
+#EXTINF:0, Книга джунглей (2016) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kniga_dzhungley_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Двойник (1997) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dvoynik_1997.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Вне себя (2015) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Vne_sebya_2015.hd.mp4
+#EXTINF:0, Бэтмен: Начало (2005) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_nachalo_2005.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Темный рыцарь (2008) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Temnuy_rycar_2008.hd.mp4
+#EXTINF:0, Темный рыцарь: Возрождение легенды (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Temnyy_rycar_2012.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен (1989) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_new_1989.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен возвращается (1992) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_vozvraschaetsya_1992.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен навсегда (1995) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_navsegda_1995.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен и Робин (1997) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_i_Robin_1997.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен против Супермена: На заре справедливости (2016) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_protiv_Supermena_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Лига справедливости (2017) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Liga_spravedlivosti_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Лига справедливости Зака Снайдера (2021) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Liga_spravedlivosti_Zaka_Snaydera_2021.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бэтмен (2022) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Betmen_2022.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек из стали (2013) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_iz_stali.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чудо-женщина (2017) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chudo_Zhenshina.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чудо-женщина: 1984 (2020) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chudo_zhenshina_1984.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Флэш (2023) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Flesh_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Оно (2017) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ono_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Оно 2 (2019) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ono_2_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Могучие рейнджеры (2017) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Moguchie_reyndzhery_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 300 спартанцев (2006) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/300_spartancev.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 300 спартанцев: Расцвет империи (2014) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/300_spartancev_rascvet_imperii.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джокер (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhoker_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джокер: Безумие на двоих (2024) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhoker_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Отряд самоубийц (2016) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Otryad_samoubiyc.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Отряд самоубийц: Миссия навылет (2021) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Otryad_samoubiyc_missiya_navylet.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Хищные птицы (2020) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hishnye_pticy.hd.mp4
+#EXTINF:0, Железный человек (2008) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zheleznuy_chelovek.hd.mp4
+#EXTINF:0, Железный человек 2 (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Geleznuy_chelovek_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Железный человек 3 (2013) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zheleznuy_chelovek_3.hd.mp4
+#EXTINF:0, Тор (2011) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Tor.hd.mp4
+#EXTINF:0, Тор 2 (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tor_2.hd.mp4
+#EXTINF:0, Тор: Рагнарек (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tor_3.hd.mp4
+#EXTINF:0, Тор: Любовь и гром (2022) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Tor_lyubov_i_grom.hd.mp4
+#EXTINF:0, Мстители (2012) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mstiteli.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мстители: Эра Альтрона (2015) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mstiteli_2_2015.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мстители: Война бесконечности (2018) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Mstiteli_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мстители: Финал (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Mstiteli_4_2019.hd.mp4
+#EXTINF:0, Первый мститель (2011) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pervuy_mstitel.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Первый мститель: Другая война (2014) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pervuy_mstitel_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Первый мститель: Противостояние (2016) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pervuy_mstitel_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чёрная вдова (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chernaya_vdova.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чёрная Пантера (2018) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chernaya_pantera.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чёрная Пантера: Ваканда навеки (2022) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chernaya_Pantera_vn.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Стражи Галактики (2014) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Strazhi_Galaktiki.hd.mp4
+#EXTINF:0, Стражи Галактики. Часть 2 (2017) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Strazhi_Galaktiki_2.hd.mp4
+#EXTINF:0, Стражи Галактики 3 (2023) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Strazhi_Galaktiki_3.hd.mp4
+#EXTINF:0, Стражи Галактики: Праздничный спецвыпуск (2022) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Strazhi_Galaktiki_ps.hd.mp4
+#EXTINF:0, Человек-муравей (2015) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_muravey.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-Муравей и Оса (2018) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_Muravey_i_Osa.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-муравей и Оса: Квантомания (2023) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_muravey_i_Osa_kvantomaniya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-паук (2002) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Chelovek_pauk_2002.hd.mp4
+#EXTINF:0, Человек-паук 2 (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Chelovek_pauk_2_2004.hd.mp4
+#EXTINF:0, Человек-паук 3: Враг в отражении (2007) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Chelovek_pauk_3_2007.hd.mp4
+#EXTINF:0, Новый Человек-паук (2012) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_pauk_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Новый Человек-паук: Высокое напряжение (2014) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_pauk_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-паук: Возвращение домой (2017) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_pauk_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-паук: Вдали от дома (2019) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_pauk_vdali_ot_doma.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-паук: Нет пути домой (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_pauk_net_puti_domoy_2021.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 13-й район (2004) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/13_rayon.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 13-й район: Ультиматум (2009) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/13_rayon_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 48 часов (1982) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/48_chasov_1982.hd.mp4
+#EXTINF:0, Шесть дней, семь ночей (1998) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Shest_dney_sem_nochey.hd.mp4
+#EXTINF:0, Прочь (2017) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Proch.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Зловещие мертвецы (1981) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zloveschie_mertvecy.hd.mp4
+#EXTINF:0, Зловещие мертвецы 2 (1987) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zloveschie_mertvecy_2.hd.mp4
+#EXTINF:0, Зловещие мертвецы 3: Армия тьмы (1992) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zloveschie_mertvecy_3.hd.mp4
+#EXTINF:0, Зловещие мертвецы: Черная книга (2013) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zloveschie_mertvecy_kniga.hd.mp4
+#EXTINF:0, Восстание зловещих мертвецов (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vosstanie_zloveschih_mertvecov.hd.mp4
+#EXTINF:0, Назад в будущее (1985) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Nazad_v_buduschee_1985.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Назад в будущее 2 (1989) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Nazad_v_buduschee_2_1989.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Назад в будущее 3 (1990) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Nazad_v_buduschee_3_1990.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Трасса 60 (2002) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Trassa_60.hd.mp4
+#EXTINF:0, Стюарт Литтл (1999) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Styuart_Littl.hd.mp4
+#EXTINF:0, Стюарт Литтл 2 (2002) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Styuart_Littl_2.hd.mp4
+#EXTINF:0, Люди в черном (1997) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Lyudi_v_chernom.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Люди в черном 2 (2002) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Lyudi_v_chernom_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Люди в черном 3 (2012) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Lyudi_v_chernom_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Люди в черном 4: Интернэшнл (2019) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Lyudi_v_chernom_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Хоббит: Нежданное путешествие (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hobbit.hd.mp4
+#EXTINF:0, Хоббит: Пустошь Смауга (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hobbit_2.hd.mp4
+#EXTINF:0, Хоббит: Битва пяти воинств (2014) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Hobbit_3.hd.mp4
+#EXTINF:0, Властелин колец: Братство кольца (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vlastelin_kolec.hd.mp4
+#EXTINF:0, Властелин колец: Две крепости (2002) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vlastelin_kolec_2.hd.mp4
+#EXTINF:0, Властелин колец: Возвращение Короля (2003) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vlastelin_kolec_3.hd.mp4
+#EXTINF:0, Черная дыра: Хроники Риддика (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hroniki_Riddika_Chernaya_dyra.hd.mp4
+#EXTINF:0, Хроники Риддика (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hroniki_Riddika.hd.mp4
+#EXTINF:0, Риддик (2013) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Riddik.hd.mp4
+#EXTINF:0, Широко шагая (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Shiroko_shagaya.hd.mp4
+#EXTINF:0, Полицейская история (1985) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Policeyskaya_istoriya_1985.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская история 2 (1988) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Policeyskaya_istoriya_2_1988.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская история 3: Суперполицейский (1992) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Policeyskaya_istoriya_3_1992.mp4/index-v1-a1.m3u8
+#EXTINF:0, Новая полицейская история (2004) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Novaya_police_istoriya_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Доспехи Бога (1986) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dospehi_Boga_1986.mp4/index-v1-a1.m3u8
+#EXTINF:0, Доспехи Бога 2 (1991) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dospehi_Boga_2_1991.mp4/index-v1-a1.m3u8
+#EXTINF:0, Доспехи Бога 3: Миссия Зодиак (2012) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dospehi_Boga_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кто я? (1998) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Kto_ya_1998.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Евротур (2004) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Evrotur_2004.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Код Да Винчи (2006) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kod_Da_Vinchi.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ангелы и Демоны (2009) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Angely_i_Demony.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Инферно (2016) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Inferno.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима (1996) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима 2 (2000) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима 3 (2006) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима: Протокол Фантом (2011) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима: Племя изгоев (2015) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима: Последствия (2018) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Missiya_nevypolnima_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Миссия невыполнима 7 (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Missiya_nevypolnima_7.hd.mp4
+#EXTINF:0, Агенты АНКЛ (2015) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Agenty_A.N.K.L..hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джек Ричер (2012) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhek_Richer.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джек Ричер 2: Никогда не возвращайся (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhek_Richer_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ужастики (2015) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Uzhastiki.hd.mp4
+#EXTINF:0, Ужастики 2: Беспокойный Хэллоуин (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Uzhastiki_2.hd.mp4
+#EXTINF:0, Очень страшное кино (2000) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_strashnoe_kino.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Очень страшное кино 2 (2001) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_strashnoe_kino_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Очень страшное кино 3 (2003) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_strashnoe_kino_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Очень страшное кино 4 (2006) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_strashnoe_kino_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Очень страшное кино 5 (2013) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_strashnoe_kino_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик (1996) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krik.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик 2 (1997) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krik_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик 3 (2000) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Krik_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик 4 (2011) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krik_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик 5 (2022) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krik_2022.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крик 6 (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krik_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Охота на роботов (1984) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ohota_na_robotov_1984.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Цифровой человек (1995) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Cifrovoy_chelovek_1995.mp4/index-v1-a1.m3u8
+#EXTINF:0, Я, робот (2004) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ya_robot_2004.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Затура: Космическое приключение (2005) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Zatura_2005.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Робот по имени Чаппи (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Robot_po_imeni_Chappi.hd.mp4
+#EXTINF:0, Джуманджи (1995) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhumandzhi.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джуманджи: Зов джунглей (2017) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhumandzhi_zov_dzhungley_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джуманджи 2: Новый уровень (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhumandzhi_2_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дамбо (2019) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dambo.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог (1999) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 2 (2001) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 3: Свадьба (2003) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 4: Музыкальный лагерь (2005) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_4.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 5: Голая миля (2006) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_5.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 6: Бета Хаус (2007) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_6.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог 7: книга любви (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_7.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский пирог: Все в сборе (2012) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_pirog_vse_v_sbore.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Перевозчик (2002) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Perevozchik.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Перевозчик 2 (2005) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Perevozchik_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Перевозчик 3 (2008) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Perevozchik_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Шанхайский перевозчик (2017) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Shanhayskiy_perevozchik.hd.mp4
+#EXTINF:0, Исполнитель желаний (1997) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ispolnitel_zhelaniy_1997.hd.mp4
+#EXTINF:0, Исполнитель желаний 2: Зло бессмертно (1998) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ispolnitel_zhelaniy_2_1998.mp4
+#EXTINF:0, Исполнитель желаний 3: Камень Дьявола (2001) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ispolnitel_zhelaniy_3_2001.mp4
+#EXTINF:0, Исполнитель желаний 4: Пророчество сбылось (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ispolnitel_zhelaniy_4_2002.mp4
+#EXTINF:0, Ветреная река (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vetrenaya_reka.hd.mp4
+#EXTINF:0, Сумерки (2008) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Sumerki.hd.mp4
+#EXTINF:0, Сумерки. Сага. Новолуние (2009) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Sumerki_2.hd.mp4
+#EXTINF:0, Сумерки 3. Сага. Затмение (2010) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Sumerki_3.hd.mp4
+#EXTINF:0, Сумерки. Сага. Рассвет: Часть 1 (2011) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Sumerki_4_1.hd.mp4
+#EXTINF:0, Сумерки. Сага. Рассвет: Часть 2 (2012) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Sumerki_4_2.hd.mp4
+#EXTINF:0, Конан-варвар (2011) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Konan_Varvar_2011.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пиксели (2015) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pikseli.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Я, снова я и Ирэн (2000) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ya_snova_ya_i_Iren_2000.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский ниндзя (1985) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Amerikanskiy_nindzya_1985.hd.mp4
+#EXTINF:0, Американский ниндзя 2: Схватка (1987) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Amerikanskiy_nindzya_2_1987.hd.mp4
+#EXTINF:0, Американский ниндзя 3: Кровавая охота (1989) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Amerikanskiy_nindzya_3_1989.hd.mp4
+#EXTINF:0, Американский ниндзя 4: Полное уничтожение (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Amerikanskiy_nindzya_4_1990.hd.mp4
+#EXTINF:0, Американский ниндзя 5 (1992) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Amerikanskiy_nindzya_5_1992.mp4
+#EXTINF:0, Черепашки-ниндзя (2014) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Cherepashki_nindzya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Черепашки-ниндзя 2 (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Cherepashki_nindzya_2.hd.,hd.mp4,mp4,.urlset/master.m3u8
+#EXTINF:0, Капитан Крюк (1991) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Kapitan_Kryuk_1991.hd.mp4
+#EXTINF:0, Инопланетянин (1982) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Inoplanetyanin.hd.mp4
+#EXTINF:0, Веном (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Venom.hd.mp4
+#EXTINF:0, Веном 2 (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Venom_2.hd.mp4
+#EXTINF:0, Веном 3: Последний танец (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Venom_3_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек на чердаке (1953) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_na_cherdake.mp4/index-v1-a1.m3u8
+#EXTINF:0, Выход Дракона (1973) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vyhod_Drakona_1973.hd.mp4
+#EXTINF:0, Соломон Кейн (2009) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Solomon_Keyn.hd.mp4
+#EXTINF:0, Формула любви для узников брака (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Formula_love.mp4/index-v1-a1.m3u8
+#EXTINF:0, Воздушный бой (2020) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vozdushnuy_boy.hd.mp4
+#EXTINF:0, Пипец (2010) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pipec.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пипец 2 (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Pipec_2.hd.mp4
+#EXTINF:0, Быстрее пули (2022) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bystree_puli_2022.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крадущийся тигр, затаившийся дракон (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Kraduschiysya_tigr_zataivshiysya_drakon_2000.hd.mp4
+#EXTINF:0, Практическая магия (1998) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Prakticheskaya_magiya_1998.hd.mp4
+#EXTINF:0, В осаде (1992) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/V_osade_1992.hd.mp4
+#EXTINF:0, В осаде 2: Темная территория (1995) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/V_osade_2_1995.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия (1984) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 2: Их первое задание (1985) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_2.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 3: Переподготовка (1986) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_3.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 4: Граждане в дозоре (1987) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_4.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 5: Майами Бич (1988) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_5.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 6: Город в осаде (1989) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_6.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полицейская академия 7: Миссия в Москве (1994) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Policeyskaya_akademiya_7.mp4/index-v1-a1.m3u8
+#EXTINF:0, Долгий поцелуй на ночь (1996) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dolgiy_poceluy_na_noch.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Что скрывает вода (2020) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chto_skryvaet_voda.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Конкретный убийца (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Konkretnyy_ubiyca_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Олдбой (2013) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Oldboy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Глубокое синее море (1999) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Glubokoe_sinee_more_1999.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Глубокое синее море 2 (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Glubokoe_sinee_more_2.mp4
+#EXTINF:0, Глубокое синее море 3 (2020) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/GSM_3_2020.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираньи (2010) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pirani.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пираньи 2 (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Pirani_3DD.hd.mp4
+#EXTINF:0, Челюсти (1975) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelyusti.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Челюсти 2 (1978) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelyusti_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Челюсти 3 (1983) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelyusti_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Челюсти 4: Месть (1987) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelyusti_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Челюсти: Столкновение (2022) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelyusti_stolknovenie.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Доктор Стрэндж (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Doktor_Strendzh.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Доктор Стрэндж: В мультивселенной безумия (2022) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Doktor_Strendzh_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Шерлок Холмс (2009) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sherlok_Holms.hd.mp4
+#EXTINF:0, Шерлок Холмс: Игра теней (2011) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sherlok_Holms_igra_teney.hd.mp4
+#EXTINF:0, Судный день (2023) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Sudnyy_den_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Нападение на 13-й участок (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Napadenie_na_13_2005.hd.mp4
+#EXTINF:0, Убийство в Восточном экспрессе (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ubiystvo_v_Vostochnom_ekspresse_2017.hd.mp4
+#EXTINF:0, Смерть на Ниле (2022) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Smert_na_Nile.hd.mp4
+#EXTINF:0, Призраки в Венеции (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Prizraki_v_Venecii_2023.hd.mp4
+#EXTINF:0, Kingsman: Секретная служба (2015) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kingsman.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Kingsman: Золотое кольцо (2017) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Kingsman_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Kingsman: Начало (2022) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/KingsMan_Nachalo.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дракула (2014) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Drakula.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Другой мир (2003) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Drugoy_mir.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Другой мир 2: Эволюция (2005) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Drugoy_mir_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Другой мир: Восстание ликанов (2008) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Drugoy_mir_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Другой мир: Пробуждение (2012) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Drugoy_mir_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Другой мир: Войны крови (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Drugoy_mir_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ямакаси (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Yamakasi.hd.mp4
+#EXTINF:0, Ямакаси 2 (2004) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Yamakasi_2.hd.mp4
+#EXTINF:0, Типа копы (2014) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tipa_kopy_2014.hd.mp4
+#EXTINF:0, Проект А (1983) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Proekt_A_1983.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Механик (2010) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Mehanik.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Механик: Воскрешение (2016) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mehanik_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тюряга (1989) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tyuryaga.hd.mp4
+#EXTINF:0, Гран Торино (2008) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Gran_Torino.hd.mp4
+#EXTINF:0, Место под соснами (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Mesto_pod_sosnami_2012.hd.mp4
+#EXTINF:0, Громобой (1995) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Gromoboy_1995.mp4/index-v1-a1.m3u8
+#EXTINF:0, Need for Speed: Жажда скорости (2014) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Need_for_speed_2014.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Под водой (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Pod_vodoy_2020.hd.mp4
+#EXTINF:0, Феномен (1996) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Fenomen_1996.hd.mp4
+#EXTINF:0, Ночь страха (2011) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Noch_straha.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Звонок (2002) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zvonok.hd.mp4
+#EXTINF:0, Звонок 2 (2005) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zvonok_2.hd.mp4
+#EXTINF:0, Звонки (2017) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zvonki.hd.mp4
+#EXTINF:0, Титаник (1997) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Titanik.hd.mp4
+#EXTINF:0, Звонок мертвецу (2018) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zvonok_mertvecu.hd.mp4
+#EXTINF:0, Лишний багаж (1997) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Lishniy_bagazh.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, В эфире (2022) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/V_efire.hd.mp4
+#EXTINF:0, Телефонная будка (2002) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Telefonnaya_budka_2002.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ворон (1996) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Voron_1996.mp4
+#EXTINF:0, Дом странных детей Мисс Перегрин (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dom_strannyh_detey_Miss_Peregrin.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Astral.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал: Глава 2 (2013) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Astral_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал 3 (2015) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Astral_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал 4: Последний ключ (2018) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Astral_4_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал 5: Красная дверь (2023) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Astral_5_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Синистер (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sinister.hd.mp4
+#EXTINF:0, Синистер 2 (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sinister_2.hd.mp4
+#EXTINF:0, Астрал. Шепот мертвых (2019) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Astral_shepot_mertvyh_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Астрал. Шёпот мёртвых 2 (2020) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Astral_shepot_mertvyh_2_2020.hd.mp4
+#EXTINF:0, Книга Илая (2010) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kniga_Ilaya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крикуны (1995) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Krikuny.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Власть огня (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vlast_ognya_2022.hd.mp4
+#EXTINF:0, Омен. Непорочная (2024) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Omen_neporochnaya_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бездна страха (2023) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Bezdna_straha_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Палата (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Palata_2010.hd.mp4
+#EXTINF:0, Призрачный гонщик (2007) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Prizrachnyy_gonschik_2007.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Призрачный гонщик 2 (2011) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Prizrachnuy_gonshik_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Зеленая миля (1999) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zelenaya_milya.hd.mp4
+#EXTINF:0, Ультраамериканцы (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ultraamerikancy.hd.mp4
+#EXTINF:0, Социальная сеть (2010) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Socialnaya_set.hd.mp4
+#EXTINF:0, Добро пожаловать в капкан (2012) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dobro_pozhalovat_v_kapkan_2012.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Воин (2011) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Voin.hd.mp4
+#EXTINF:0, Добро пожаловать в Рай (2005) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dobro_pozhalovat_v_ray.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Добро пожаловать в Рай 2 (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dobro_pozhalovat_v_ray_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Аватар (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Avatar.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Аватар 2: Путь воды (2022) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Avatar_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Повелитель стихий (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Povelitel_stihiy_2010.hd.mp4
+#EXTINF:0, Техасская резня бензопилой (1974) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy.mp4
+#EXTINF:0, Техасская резня бензопилой 2 (1986) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_2.hd.mp4
+#EXTINF:0, Техасская резня бензопилой 3 (1990) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_3.mp4
+#EXTINF:0, Техасская резня бензопилой 4 (1994) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_4.hd.mp4
+#EXTINF:0, Техасская резня бензопилой (2003) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_2003.hd.mp4
+#EXTINF:0, Техасская резня бензопилой: Начало (2006) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_nachalo.hd.mp4
+#EXTINF:0, Техасская резня бензопилой 3D (2013) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_3d.hd.mp4
+#EXTINF:0, Техасская резня бензопилой: Кожаное лицо (2017) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Tehasskaya_reznya_benzopiloy_kl.hd.mp4
+#EXTINF:0, Техасская резня бензопилой (2022) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Tehasskay_rb.hd.mp4
+#EXTINF:0, Животное (2001) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhivotnoe_2001.hd.mp4
+#EXTINF:0, Немного кунг-фу (1978) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Nemnogo_Kung_Fu_1978.hd.mp4
+#EXTINF:0, Разборки в стиле Кунг-фу (2004) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Razborki_v_stile_Kung_fu_2004.hd.mp4
+#EXTINF:0, Пандорум (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pandorum.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мушкетеры (2011) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Mushketery_2011.hd.mp4
+#EXTINF:0, Обитель зла (2002) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла 2: Апокалипсис (2004) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла 3 (2007) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла 4: Жизнь после смерти 3D (2010) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла: Возмездие (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла: Последняя глава (2016) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обитель зла: Раккун-Сити (2022) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Obitel_zla_rc.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Метеор - убийца (1976) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Meteor_ubiyca_1976.hd.mp4
+#EXTINF:0, Идеальный побег (2009) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Idealnyy_pobeg_2009.hd.mp4
+#EXTINF:0, Крутые стволы (1997) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Krutye_stvoly_1997.hd.mp4
+#EXTINF:0, Смертельная битва (1995) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Smertelnaya_bitva.hd.mp4
+#EXTINF:0, Смертельная битва 2 (1997) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Smertelnaya_bitva_2.hd.mp4
+#EXTINF:0, Мортал Комбат (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Mortal_Kombat_2021.hd.mp4
+#EXTINF:0, Очень эпическое кино (2007) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_epicheskoe_kino.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ночь в музее (2006) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Noch_v_muzee.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ночь в музее 2 (2009) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Noch_v_muzee_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ночь в музее 3: Секрет гробницы (2014) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Noch_v_muzee_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Быстрые перемены (1990) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Bystrye_peremeny_1990.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крылышко или ножка (1976) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Krylyshko_ili_nozhka_1976.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Игрушка (1976) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Igrushka_1976.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Планета зверей (2018) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Animal_world_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ужасающий (2016) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Uzhasayuschiy_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ужасающий 2 (2022) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Uzhasayuschiy_2.hd.mp4
+#EXTINF:0, Ужасающий 3 (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Uzhasayuschiy_3_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мумия (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Mumiya_2017.hd.mp4
+#EXTINF:0, Мумия (1999) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mumiya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мумия возвращается (2001) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Mumiya_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мумия 3 (2008) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mumiya_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Час пик (1998) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chas_pik_1998.mp4/index-v1-a1.m3u8
+#EXTINF:0, Час пик 2 (2001) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chas_pik_2_2001.mp4/index-v1-a1.m3u8
+#EXTINF:0, Час пик 3 (2007) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chas_pik_3_2007.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Покемон Razor. Детектив Пикачу (2019) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pokemon_detektiv_Pikachu.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ле-Ман (1971) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Le_Man_1971.hd.mp4
+#EXTINF:0, Джеки Чан: Мои трюки (1999) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzheki_Chan_1999.mp4/index-v1-a1.m3u8
+#EXTINF:0, Гениальная афера (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Genialnaya_afera_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кочевники (1985) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Kochevniki.hd.mp4
+#EXTINF:0, Моя чудесная жизнь (2021) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Moya_chudesnaya_zhizn.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Воронья лощина (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Voronya_loschina.hd.mp4
+#EXTINF:0, Родео (2022) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Rodeo.hd.mp4
+#EXTINF:0, Любовь без обязательств (2015) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Lyubov_bez_obyazatelstv.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Галактическая война (2004) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Galakticheskaya_voyna_2004.,mp4,.urlset/master.m3u8
+#EXTINF:0, Высшая школа рок-н-ролла (1979) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Vysshaya_shkola_rok_n_rolla_1979.hd.mp4
+#EXTINF:0, Хардкор (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hardkor.hd.mp4
+#EXTINF:0, Алита: Боевой ангел (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Alita_boevoy_angel_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Высшая черта (1988) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vysshaya_cherta_1988.hd.mp4
+#EXTINF:0, Призрак в доспехах (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Prizrak_v_dospehah_2017.hd.mp4
+#EXTINF:0, Киборг (1989) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kiborg.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Робокоп (1987) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Robokop_1987.hd.mp4
+#EXTINF:0, Робокоп 2 (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Robokop_2_1990.mp4
+#EXTINF:0, РобоКоп (2014) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/RoboKop.hd.mp4
+#EXTINF:0, Соло (1996) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Solo_1996.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Универсальный razor солдат (1992) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Universalnuy_soldat.hd.mp4
+#EXTINF:0, Универсальный солдат 2: Возвращение (1999) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Universalnuy_soldat_2.hd.mp4
+#EXTINF:0, Универсальный солдат 3: Возрождение (2009) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Universalnuy_soldat_3.hd.mp4
+#EXTINF:0, Универсальный солдат 4 (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Universalnuy_soldat_4.hd.mp4
+#EXTINF:0, Геракл: Начало легенды (2014) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Gerakl_2014.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тройная угроза (2018) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Troynaya_ugroza_2018.hd.mp4
+#EXTINF:0, Онг Бак (2003) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ong_Bak.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Оставленные (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Ostavlennye_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мегалополис (2024) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Megalopolis_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Присяжный номер два (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Prisyazhnyy_nomer_dva_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Номер 23 (2007) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Nomer_23.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ликвидатор (2017) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Likvidator_2017.mp4/index-v1-a1.m3u8
+#EXTINF:0, Отлив (2019) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Otliv_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Первая дуэль (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Pervaya_duel_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Жажда мести (2018) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhazhda_mesti_2018.hd.mp4
+#EXTINF:0, Жажда скорости (2007) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhazhda_skorosti_2007.hd.mp4
+#EXTINF:0, Голая бухта (2012) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Golaya_buhta_2012.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, К востоку от рая (1955) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/K_vostoku_ot_raya_1955.hd.mp4
+#EXTINF:0, Общество йоркских ведьм (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Obschestvo_yorkskih_vedm_2022.hd.mp4
+#EXTINF:0, Шесть пуль (2012) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Shest_pul.hd.mp4
+#EXTINF:0, Жажда смерти (2017) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhazhda_smerti_new.hd.mp4
+#EXTINF:0, Мишель Вальян: Жажда скорости (2003) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mishel_Valyan_zhazhda_skorosti.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, К чему-то прекрасному (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/K_chemu_to_prekrasnomu.hd.mp4
+#EXTINF:0, Ниндзя (1962) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Nindzya_1962.hd.mp4
+#EXTINF:0, Экстрасенс (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Ekstrasens.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Запах женщины (1992) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zapah_zhenshiny.hd.mp4
+#EXTINF:0, Синий свет (2003) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Siniy_svet_2003.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поклонник (1981) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Poklonnik_1981.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полный облом (2006) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Polnyy_oblom_2006.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дом большой мамочки (2000) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dom_bolshoy_mamochki_2000.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дом большой мамочки 2 (2006) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dom_bolshoj_mamochki_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Трудная мишень (1993) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Trudnaya_mishen.hd.mp4
+#EXTINF:0, Али, рули! (2019) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Ali_ruli.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Три секунды (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tri_sekundy.hd.mp4
+#EXTINF:0, На гребне волны (1991) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Na_grebne_volny.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Без тормозов (2008) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bez_tormozov.mp4/index-v1-a1.m3u8
+#EXTINF:0, Скорость (1994) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skorost.hd.mp4
+#EXTINF:0, Скорость 2: Контроль над круизом (1997) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skorost_2.hd.mp4
+#EXTINF:0, История любви (1970) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Istoriya_lyubvi_1970.hd.mp4
+#EXTINF:0, Скорость убивает (2018) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skorost_ubivaet.hd.mp4
+#EXTINF:0, На гребне волны (2015) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Na_grebne_volny_2015.,hd.mp4,mp4,.urlset/master.m3u8
+#EXTINF:0, Блэйд (1998) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bleyd.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Блэйд 2 (2002)
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bleyd_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Блэйд 3: Троица (2004) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bleyd_3_Troica.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Последний дом слева (1972) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Posledniy_dom_sleva_1972.mp4
+#EXTINF:0, Разрушитель (1993) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Razrushitel1.hd.mp4
+#EXTINF:0, Танго и Кэш (1989) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tango_i_Kesh.hd.mp4
+#EXTINF:0, Рэмбо: Первая кровь (1982) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Rembo.hd.mp4
+#EXTINF:0, Рэмбо: Первая кровь 2 (1985) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Rembo_2.hd.mp4
+#EXTINF:0, Рэмбо 3 (1988) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Rembo_3.hd.mp4
+#EXTINF:0, Рэмбо 4 (2007) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Rembo_4.hd.mp4
+#EXTINF:0, Рэмбо: Последняя кровь (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Rembo_poslednyaya_krov.hd.mp4
+#EXTINF:0, Изо всех сил (1987) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Izo_vseh_sil_1987.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дневной свет (1996) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dnevnoy_svet_1996.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Самаритянин (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Samarityanin.hd.mp4
+#EXTINF:0, Ангел мести (2002) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Angel_mesti.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Детоксикация (2002) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Detoksikaciya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Специалист (1994) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Specialist.hd.mp4
+#EXTINF:0, Судья Дредд (1995) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Sudya_Dredd.hd.mp4
+#EXTINF:0, Razor Кобра (1986) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Kobra_1986.hd.mp4
+#EXTINF:0, Неудержимые (2010) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Neudergimue.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Неудержимые 2 (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Neuderzhimye_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Неудержимые 3 (2014) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Neuderzhimye_3.hd.mp4
+#EXTINF:0, Неудержимые 4 (2022) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Neuderzhimye_4_2022.hd.mp4
+#EXTINF:0, Джона Хекс (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhona_Heks.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Невидимка (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Nevidimka_2000.mp4
+#EXTINF:0, Тело Дженнифер (2009) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Telo_Dzhennifer.mp4
+#EXTINF:0, В западне (2021) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/V_zapadne.hd.mp4
+#EXTINF:0, Полночь на злаковом поле (2021) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Polnoch_na_zlakovom_pole.hd.mp4
+#EXTINF:0, Соседка (2004) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Sosedka.hd.mp4
+#EXTINF:0, В поисках приключений (1996) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/V_poiskah_priklyucheniy_1996.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Самоволка (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Samovolka.hd.mp4
+#EXTINF:0, Стреляйте в пианиста (1960) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Strelyayte_v_pianista_1960.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полный дом (2010) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Polnuy_dom.mp4/index-v1-a1.m3u8
+#EXTINF:0, Проект X: Дорвались (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Proekt_X_dorvalis.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 21 и больше (2013) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/21_i_bolshe.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Больше, чем секс (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bolshe_chem_seks.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Законы привлекательности (2004) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zakony_privlekatelnosti.hd.mp4
+#EXTINF:0, Линкольн для адвоката (2011) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Linkoln_dlya_advokata.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Рестлер (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Restler.hd.mp4
+#EXTINF:0, 13-й воин (1999) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/13_voin.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обсуждению не подлежит (2002) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Obsuzhdeniyu_ne_podlezhit_2002.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Забойный реванш (2013) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zaboynuy_revansh.hd.mp4
+#EXTINF:0, Хостел (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hostel.hd.mp4
+#EXTINF:0, Хостел 2 (2007) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Hostel_2.hd.mp4
+#EXTINF:0, Хостел 3 (2011) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hostel_3.hd.mp4
+#EXTINF:0, Джиперс Криперс (2001) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhipers_Kripers.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джиперс Криперс 2 (2002) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhipers_Kripers_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джиперс Криперс 3 (2017) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhipers_Kripers_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Джиперс Криперс 4: Возрожденный (2022) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dzhipers_Kripers_vozrozhdennyy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Я четвертый (2011) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ya_Chetvertuy.hd.mp4
+#EXTINF:0, Фантастическая четверка (2015) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Fantasticheskaya_chetverka_2015.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Парни со стволами (2016) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Parni_so_stvolami.hd.mp4
+#EXTINF:0, Маяк (2019) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Mayak_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Голодные игры: Баллада о змеях и певчих птицах (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Golodnye_igry_ballada.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Странствия Одиссея (1954) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Stranstviya_Odisseya.hd.mp4
+#EXTINF:0, Банды Парижа (2023) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bandy_Parizha_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек в железной маске (1998) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_v_zheleznoy_maske.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Эрагон (2006) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Eragon_2006.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Малефисента (2014) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Malefisenta.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Малефисента: Владычица тьмы (2019) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Malefisenta_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мальчишник в Вегасе (2009) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Malchishnik_v_Vegase.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мальчишник 2: Razor Из Вегаса в Бангкок (2011) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Malchishnik_v_Vegase_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мальчишник: Часть 3 (2013) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Malchishnik_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сахара (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sahara_2005.hd.mp4
+#EXTINF:0, Эльвира: Повелительница тьмы (1988) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Elvira_povelitelnica_tmy_1988.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Врата тьмы (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vrata_tmy.hd.mp4
+#EXTINF:0, Зеркала (2008) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zerkala.mp4
+#EXTINF:0, Зеркала 2 (2010) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zerkala_2.hd.mp4
+#EXTINF:0, Агент Джонни Инглиш (2003) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Agent_Dzhonni_Inglish_2003.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Агент Джонни Инглиш: Перезагрузка (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Agent_Dzhonni_Inglish_2_2011.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Агент Джонни Инглиш 3 (2018) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Agent_dzhonni_Inglish_3_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мистер Бин (1997) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mister_Bin.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мистер Бин на отдыхе (2007) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mister_Bin_otdyhe.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Робин Гуд: Принц воров (1991) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Robin_Gud_princ_vorov.hd.mp4
+#EXTINF:0, Робин Гуд (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Robin_Gud.hd.mp4
+#EXTINF:0, Робин Гуд: Мужчины в трико (1993) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Robin_Gud_1993.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Балбесы (1985) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Balbesy_1985.hd.mp4
+#EXTINF:0, Планета страха (2007) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Planeta_straha.hd.mp4
+#EXTINF:0, Город грехов (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Gorod_grehov.hd.mp4
+#EXTINF:0, Город грехов 2 (2014) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Gorod_grehov_2.hd.mp4
+#EXTINF:0, Матрица (1999) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Matrica.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Матрица: Перезагрузка (2003) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Matrica_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Матрица: Революция (2003) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Matrica_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Матрица: Воскрешение (2021) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Matrica_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Матрица времени (2017) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Matrica_vremeni.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Полночная жара (1995) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Nochnoy_pozhar_1995.hd.mp4
+#EXTINF:0, Эксперимент (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Eksperiment.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Коматозники (2017) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Komatozniki_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Клаустрофобы (2019) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Klaustrofoby.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Клаустрофобы 2 (2021) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Klaustrofoby_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Клаустрофобы: Квест в Москве (2020) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Klaustrofoby_kvest_v_Moskve.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Клаустрофобы. Долина дьявола (2022) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dolina_Dyavola.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поле чудес (1989) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pole_chudes_1989.mp4/index-v1-a1.m3u8
+#EXTINF:0, Шестеро вне закона (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Shestero_vne_zakona.hd.mp4
+#EXTINF:0, Клаустрофобы: Квест с того света (2022) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Klaustrofoby_kvest.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Демоны внутри (2022) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Demony_vnutri_2022.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда (2003) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда 2: Тупик (2007) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда 3 (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда 4: Кровавое начало (2011) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_4.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда 5: Кровное родство (2012) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_5.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда 6 (2014) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_6.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда: Побег (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Povorot_ne_tuda_pobeg.mp4
+#EXTINF:0, Поворот не туда: Наследие (2021) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Povorot_ne_tuda_nasledie.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поворот не туда. Дом зла (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Povorot_ne_tuda_2022.hd.mp4
+#EXTINF:0, Аутсайдер (2018) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Autsayder_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Далласский клуб покупателей (2013) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dallasskiy_klub_pokupateley_2013.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Американский психопат (2000) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Amerikanskiy_psihopat_2000.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Прерванная жизнь (1999) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Prervannaya_zhizn_1999.hd.mp4
+#EXTINF:0, Комната страха (2002) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Komnata_straha.hd.mp4
+#EXTINF:0, Оружейный барон (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Oruzheynyy_baron.hd.mp4
+#EXTINF:0, Александр (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Aleksandr_2024.hd.mp4
+#EXTINF:0, Юность Геракла (1998) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Yunost_Gerakla_1998.mp4
+#EXTINF:0, Быстрее пули (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bistree_puli.mp4/index-v1-a1.m3u8
+#EXTINF:0, Фрэнки и Джонни (1991) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Frenki_i_Dzhonni_1991.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Письма к Джульетте (2010) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pisma_k_Dzhulette.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Золото дураков (2008) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zoloto_durakov.hd.mp4
+#EXTINF:0, Искусство путешествовать (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Iskusstvo_puteshestvovat.mp4
+#EXTINF:0, Приезжие (1999) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Priezzhie.hd.mp4
+#EXTINF:0, Элвин и бурундуки (2007) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Elvin_i_burunduki.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Элвин и бурундуки 2 (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Elvin_i_burunduki_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Элвин и бурундуки 3 (2011) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Elvin_i_burunduki_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чип и Дейл спешат на помощь (2022) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Chip_i_Deyl_speshat_na_pomosch.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Воровка (1987) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Vorovka_1987.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Геркулес (1983) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Gerkules_1983.hd.mp4
+#EXTINF:0, Геркулес востока (1973) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Gerkules_vostoka_1973.mp4/index-v1-a1.m3u8
+#EXTINF:0, Крепись! (2015) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krepis.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Впритык (2010) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vprityk.hd.mp4
+#EXTINF:0, Адреналин (2006) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Adrenalin.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Адреналин: Razor Высокое напряжение (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Adrenalin_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Эффект бабочки (2004) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Effekt_babochki.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мальчик на крыше (1990) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Malchik_na_kryshe_1990.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Обратный след (1990) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Obratnyy_sled_1990.hd.mp4
+#EXTINF:0, Охотник за головами (2010) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ohotnik_za_golovami.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ночь нежна (1961) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Noch_nezhna_1961.hd.mp4
+#EXTINF:0, Мой парень — псих (2012) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Moy_paren_psih_2012.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Чёрный рыцарь (2001) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chernuy_rycar.mp4/index-v1-a1.m3u8
+#EXTINF:0, Большой (1988) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bolshoy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тайна razor дома с часами (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tayna_doma_s_chasami.hd.mp4
+#EXTINF:0, Пэн: Путешествие в Нетландию (2015) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pen.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Облачный атлас (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Oblachnuy_atlas.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Петля времени (2012) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Petlya_vremeni.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ремнант: Все еще вижу тебя (2018) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Remnant.hd.mp4
+#EXTINF:0, Кровавая баня в доме смерти (1984) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krovavaya_banya_v_dome_smerti.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Месть Лиззи Борден (2018) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mest_Lizzi_Borden_2018.mp4/index-v1-a1.m3u8
+#EXTINF:0, Морбиус (2022) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Morbius.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сделка (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sdelka.mp4
+#EXTINF:0, Шоу на краю света (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Shou_na_krayu_sveta.hd.mp4
+#EXTINF:0, Валериан razor и город тысячи планет (2017) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Valerian_i_gorod_tysyachi_planet.hd.mp4
+#EXTINF:0, Гемини (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Gemini.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бриллиантовый полицейский (1999) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Brilliantovyy_policeyskiy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Смокинг (2002) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Smoking.hd.mp4
+#EXTINF:0, Агент Коди Бэнкс (2003) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Agent_Cody_Banks.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Агент Коди Бэнкс 2 (2004) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Agent_Cody_Banks_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Власть пса (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Vlast_psa.hd.mp4
+#EXTINF:0, Пока, пташка (1963) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Poka_ptashka.hd.mp4
+#EXTINF:0, Ты водишь! (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ty_vodish.hd.mp4
+#EXTINF:0, Улица страха. Часть 1: 1994 (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ulica_straha_chast_1_1994.hd.mp4
+#EXTINF:0, Улица страха. Часть 2: 1978 (2021) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ulica_straha_chast_2_1978.hd.mp4
+#EXTINF:0, Улица страха. Часть 3: 1666 (2021) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ulica_straha_chast_3_1666.hd.mp4
+#EXTINF:0, Другой (2018) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Drugoy_2018.hd.mp4
+#EXTINF:0, Машина времени (2002) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mashina_vremeni.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Машина времени в джакузи (2010) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mashina_vremeni_v_dzhakuzi.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Машина времени в джакузи 2 (2014) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Mashina_vremeni_v_dzhakuzi_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Киллеры (2010) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Killery.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Зорро (1975) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Zorro_1975.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пришельцы (1993) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Prishelcy_1993.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пришельцы 2: Коридоры времени (1998) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Prishelcy_2_1998.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пришельцы в Америке (2001) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Prishelcy_v_Amerike.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поле битвы: Земля (2000) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pole_bitvy_Zemlya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ангел тьмы (1990) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Angel_tmy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Враг мой (1985) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vrag_moy.hd.mp4
+#EXTINF:0, Грань будущего (2014) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Gran_budushego.hd.mp4
+#EXTINF:0, Район №9 (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Nomer_9.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Всё могу (2015) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vse_mogu.hd.mp4
+#EXTINF:0, Экстро (1982) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ekstro_1982.hd.mp4
+#EXTINF:0, Морской бой (2012) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Morskoy_boy_2012.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Прибытие (2016) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Pribytie_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Убийца (2015) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ubiyca.hd.mp4
+#EXTINF:0, Мама: Возвращение из тьмы (2020) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Mama_vozvrashenie_iz_tmy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Плохие парни (1995) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Plohie_parni.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Плохие парни 2 (2003) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Plohie_parni_2_2003.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Плохие парни 3: Навсегда (2020) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Plohie_parni_navsegda.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Плохие парни 4: до конца (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Plohie_parni_do_konca_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Скуби-Ду (2002) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skubi_Du_2002.hd.mp4
+#EXTINF:0, Скуби-Ду 2: Монстры на свободе (2004) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Skubi_Du_2_2004.hd.mp4
+#EXTINF:0, Тринадцать привидений (2001) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Trinadcat_privideniy_2001.mp4/index-v1-a1.m3u8
+#EXTINF:0, 12 обезьян (1995) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/12_obezyan_1995.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Планета обезьян (2001) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Planeta_obezyan.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Восстание планеты обезьян (2011) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Vosstanie_planety_obezyan_2011.hd.mp4
+#EXTINF:0, Планета обезьян: Революция (2014) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Planeta_obezyan_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Планета обезьян: Война (2017) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Planeta_obezyan_3.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Значит, война (2012) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Znachit_voyna.hd.mp4
+#EXTINF:0, Хранители (2009) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Xranitelj.mp4
+#EXTINF:0, Зубастики (1986) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zubastiki.mp4
+#EXTINF:0, Зубастики 2 (1988) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zubastiki_2.mp4
+#EXTINF:0, Зубастики 3 (1991) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zubastiki_3.hd.mp4
+#EXTINF:0, Зубастики 4 (1991) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zubastiki_4.mp4
+#EXTINF:0, По наклонной (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Po_naklonnoy.hd.mp4
+#EXTINF:0, В долине Эла (2007) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/V_doline_ela.hd.mp4
+#EXTINF:0, Не брать живым (2010) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ne_brat_zhivym.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Жестокие игры (1999) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhestokie_igry.hd.mp4
+#EXTINF:0, Жестокие игры 2: Манчестерская подготовка (2000) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhestokie_igry_2.mp4
+#EXTINF:0, Телохранитель (2011) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Telohranitel.hd.mp4
+#EXTINF:0, Малыш на драйве (2017) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Malysh_na_drayve.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Младенец на прогулке (1994) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Mladenec_na_progulke_1994.hd.mp4
+#EXTINF:0, Кровью и потом: Анаболики (2013) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krovyu_i_potom_Anaboliki.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бессмертная гвардия (2020) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bessmertnaya_gvardiya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сердце из стали (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Serdce_iz_stali.hd.mp4
+#EXTINF:0, Фар Край (2008) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Far_Kray.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Побег из Лос-Анджелеса (1996) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pobeg_iz_Los_Andzhelesa.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Побег из Нью-Йорка (1981) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pobeg_iz_Nyu_Yorka.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, 21 мост (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/21_most.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Без компромиссов (2011) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bez_kompromissov.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Ствол (2010) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Stvol.hd.mp4
+#EXTINF:0, Хроники хищных городов (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hroniki_hishnyh_gorodov.hd.mp4
+#EXTINF:0, Белый плен (2006) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Beluy_plen.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, На грани (1997) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Na_grani.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Razor - легенда (2007) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ya_legenda.hd.mp4
+#EXTINF:0, Дюна (1984) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dyuna.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дюна (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dyuna_2021.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Звездные врата (1994) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zvezdnye_vrata.hd.mp4
+#EXTINF:0, Пирамида (2014) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Piramida.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, До встречи с тобой (2016) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Do_vstrechi_s_toboy.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Искусственный разум (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Iskusstvennuy_razum.hd.mp4
+#EXTINF:0, Живая сталь (2011) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhivaya_stal.hd.mp4
+#EXTINF:0, После Янга (2021) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Posle_Yanga.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Связанные кровью (2010) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Svyazannye_krovyu.hd.mp4
+#EXTINF:0, Зачарованная (2007) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zacharovannaya.hd.mp4
+#EXTINF:0, Зачарованная 2 (2022) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zacharovannaya_2.hd.mp4
+#EXTINF:0, Ограбление (2022) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Ograblenie.hd.mp4
+#EXTINF:0, Девушка, которая боялась дождя (2021) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Devushka_kotoraya_boyalas_dozhdya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Изгой (2000) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Izgoy.hd.mp4
+#EXTINF:0, Робинзон Крузо (1997) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Robinzon_Kruzo_1997.mp4
+#EXTINF:0, В сердце моря (2015) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/V_serdce_morya.hd.mp4
+#EXTINF:0, Корабль дураков (1965) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Korabl_durakov_1965.hd.mp4
+#EXTINF:0, Пассажиры (2016) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Passazhiry_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Солдат (1998) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Soldat.hd.mp4
+#EXTINF:0, Хеллбой: Герой из пекла (2004) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Helboy.hd.mp4
+#EXTINF:0, Хеллбой 2: Золотая армия (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Helboy_2.hd.mp4
+#EXTINF:0, Хеллбой (2019) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Hellboy_2019.hd.mp4
+#EXTINF:0, Голубая лагуна (1980) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Golubaya_laguna.hd.mp4
+#EXTINF:0, Возвращение в Голубую лагуну (1991) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Golubaya_laguna_2.mp4
+#EXTINF:0, Голубая лагуна: Пробуждение (2012) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Golubaya_laguna_3.hd.mp4
+#EXTINF:0, 12 могучих сирот (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/12_moguchih_sirot.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Капитан Крюк (1991) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Kapitan_Kryuk_1991.hd.mp4
+#EXTINF:0, Пэн: Путешествие в Нетландию (2015) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pen.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пароль Рыба-меч (2001) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Parol_Ryba_mech.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кэрри (1976) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kerri_1976.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пятое измерение (2009) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Pyatoe_izmerenie.hd.mp4
+#EXTINF:0, Телекинез (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Telekinez.hd.mp4
+#EXTINF:0, Феномен (1996) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Fenomen_1996.hd.mp4
+#EXTINF:0, Последний король Шотландии (2006) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Posledniy_korol_Shotlandii.hd.mp4
+#EXTINF:0, Храброе сердце (1995) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hrabroe_serdce.hd.mp4
+#EXTINF:0, Заложница (2008) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zalozhnica.hd.mp4
+#EXTINF:0, Заложница 2 (2012) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zalozhnica_2.hd.mp4
+#EXTINF:0, Заложница 3 (2014) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zalozhnica_3.hd.mp4
+#EXTINF:0, Заложница: Найти пропавшую (2021) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zalozhnica_nayti_propavshuyu.hd.mp4
+#EXTINF:0, Большой удар (1998) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bolshoe_delo.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Святые из трущоб (перевод Гоблина) (1999) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Svjatie_iz_truscheb.mp4
+#EXTINF:0, Не грози южному централу (перевод Гоблина) (1996) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ne_grozi_yugnomu_centralu_Goblin.mp4/index-v1-a1.m3u8
+#EXTINF:0, 187 (1997) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/187_1997.mp4/index-v1-a1.m3u8
+#EXTINF:0, Учителя (1984) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Uchitelya_1984.hd.mp4
+#EXTINF:0, Очень плохая училка (2011) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ochen_plohaya_uchilka.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Человек-невидимка (2020) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Chelovek_nevidimka.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пурпурная роза Каира (1985) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Purpurnaya_roza_Kaira.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бунт ушастых (2011) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bunt_ushastyh.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Громовое сердце (1992) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Gromovoe_serdce_1992.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кто подставил кролика Роджера (1988) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kto_podstavil_krolika_Rodzhera_1988.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дом на Гринэппл-роуд (1970) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/House_on_Greenapple_Road_1970.mp4/index-v1-a1.m3u8
+#EXTINF:0, Душа тишины (2005) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dusha_tishiny.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Всё получится (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vse_poluchitca.hd.mp4
+#EXTINF:0, Спеши любить (2002) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Speshi_lyubit.hd.mp4
+#EXTINF:0, Столик на троих (2009) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Stolik_na_troih.mp4
+#EXTINF:0, Сайрус (2010) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Sayrus.mp4
+#EXTINF:0, Этот неловкий момент (2015) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Etot_nelovkiy_moment_2015.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дядюшка Бак (1989) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Dyadyushka_Bak_1989.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кукла (2016) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kukla_2016.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кукла 2: Брамс (2020) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kukla_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бобер (2011) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bober.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пингвины мистера Поппера (2011) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Pingviny_mistera_Poppera_2011.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Идеальное убийство (1998) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Idealnoe_ubiystvo.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тарзан. Легенда (2016) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Tarzan_legenda.hd.mp4
+#EXTINF:0, Побег (1994) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Pobeg_1994.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Никогда не сдавайся (2009) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Nikogda_ne_sdavaysya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Великий уравнитель (2014) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Velikiy_uravnitel.hd.mp4
+#EXTINF:0, Великий уравнитель 2 (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Velikiy_uravnitel_2.hd.mp4
+#EXTINF:0, Великий уравнитель 3 (2023) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Velikiy_uravnitel_3_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Великая стена (2016) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Velikaya_stena.hd.mp4
+#EXTINF:0, Стажёр (2015) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Stazher.hd.mp4
+#EXTINF:0, Медвежатник (2001) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Medvezhatnik.hd.mp4
+#EXTINF:0, Макс Пэйн (2008) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Maks_Peyn_2008.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Подарок (2009) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Podarok.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Бестолковый (1995) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Bestolkovie.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Одноклассники (2010) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Odnoklassniki.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Одноклассники 2 (2013) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Odnoklassniki_2.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Копы в глубоком запасе (2010) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Kopy_glubokom_zapase.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Псы под прикрытием (2018) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Psy_pod_prikrytiem.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Сломанная стрела (1996) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Slomannaya_strela.hd.mp4
+#EXTINF:0, Правда или действие (2018) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pravda_ili_deystvie_2018.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Вечеринка у Нила (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vezerinka_Nila.mp4
+#EXTINF:0, В другой раз (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/V_drugoy_raz.hd.mp4
+#EXTINF:0, Лондонские поля (2018) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Londonskie_polya.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Пророк (2007) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Prorok.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Счастливого Дня смерти (2017) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Schastlivogo_ds.hd.mp4
+#EXTINF:0, Счастливого нового дня смерти (2019) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Schastlivogo_novogo_ds.hd.mp4
+#EXTINF:0, Хатико: Самый верный друг (2008) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Hatiko.hd.mp4
+#EXTINF:0, Мой Хатико (2023) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Moy_Hatiko_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Главный герой (2021) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Glavnuy_geroy.hd.mp4
+#EXTINF:0, День сурка (1993) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Den_surka.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Заткнись и поцелуй меня (2004) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zatknis_i_pozeluy_menya.mp4
+#EXTINF:0, День Святого Валентина (2010) 
+#EXTGRP: Фильмы 2
+https://s1.kinotusa.ru/hls/Den_Svyatogo_Valentina.mp4/index-v1-a1.m3u8
+#EXTINF:0, Киносвидание (2006) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Kinosvidanie.mp4/index-v1-a1.m3u8
+#EXTINF:0, Подземелья драконов (2000) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Podzemelie_drakonov.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Подземелье драконов 2 (2005) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Podzemele_drakonov_2.mp4/index-v1-a1.m3u8
+#EXTINF:0, Женщина-король (2022) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhenschina_korol.hd.mp4
+#EXTINF:0, Радуга Финиана (1968) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Raduga_Finiana_1968.hd.mp4
+#EXTINF:0, Зверь (2022) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zver.hd.mp4
+#EXTINF:0, Дом-ловушка (2023) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dom_lovushka_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Поцелуй дракона (2001) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Poceluy_drakona.hd.mp4
+#EXTINF:0, Игра агента (2021) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Igra_agenta_2021.mp4/index-v1-a1.m3u8
+#EXTINF:0, Агентская игра (2022) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Agentskaya_igra.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Не шутите с Зоханом (2008) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Ne_shutite_Zohan.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Настоящая любовь (1993) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Nastoyaschaya_lyubov_1993.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Стильная штучка (2002) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Stilnaya_shtuchka.hd.mp4
+#EXTINF:0, Бал безумных женщин (2021) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Bal_bezumnyh_zhenshin.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Зеленый ад (1988) 
+#EXTGRP: Фильмы 2
+https://v2.kinotusa.ru/mp4/Zelenuy_ad.hd.mp4
+#EXTINF:0, Чокнутый профессор (1963) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Choknutyy_professor_1963.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Законопослушный гражданин (2009) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zakonoposlushnuy_grazhdanin.hd.mp4
+#EXTINF:0, Они клонировали Тайрона (2023) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Oni_klonirovali_Tayrona_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, На следующий день (1983) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Na_sleduyuschiy_den_1983.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Страж времени (1987) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Strazh_vremeni.hd.mp4
+#EXTINF:0, Помешанный на времени (2018) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Pomeshannuy_na_vremeni.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Патруль времени (2013) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Patrul_vremeni_2013.hd.mp4
+#EXTINF:0, И грянул гром (2005) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/I_gryanul_grom.hd.mp4
+#EXTINF:0, Охранник (2017) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Ohrannik_2017.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Кража в музее (2009) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Krazha_v_muzee.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Музей восковых фигур (1953) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Muzey_voskovyh_figur_1953.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Музей восковых фигур 2 (1991) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Muzey_voskovyh_figur_2_1991.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Дом восковых фигур (2005) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dom_voskovyh_figur.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Рокетмен (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Roketmen.hd.mp4
+#EXTINF:0, Белль (2013) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Bell_2013.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Город мошенников (2020) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Gorod_moshennikov.hd.mp4
+#EXTINF:0, Жестокое противостояние (2019) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Zhestokoe_protivostoyanie_2019.hd.mp4
+#EXTINF:0, Кровавый кулак (1989) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Krovavyy_kulak_1989.hd.mp4
+#EXTINF:0, 10 минут спустя (2019) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/10_minut_spustya_2019.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Внутри моей памяти (2003) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vnutri_moey_pamyati.hd.mp4
+#EXTINF:0, В пасти безумия (1994) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/V_pasti_bezumiya_1994.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Роковая связь (2019) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Rokovaya_svyaz.hd.mp4
+#EXTINF:0, Призраки квартиры 203 (2022) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Prizraki_kvartiry_203.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Искаженный (2018) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Iskazhennuy.hd.mp4
+#EXTINF:0, Во время грозы (2018) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vo_vremya_grozy.hd.mp4
+#EXTINF:0, Лиза Франкенштейн (2024) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Liza_Frankenshteyn_2024.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Я, Франкенштейн (2014) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Ya_Frankenshteyn.hd.mp4
+#EXTINF:0, Франкенштейн (1931) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Frankenshteyn_1931.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Невеста Франкенштейна (1935) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Nevesta_Frankenshteyna_1935.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Виктор Франкенштейн (2015) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Viktor_Frankenshteyn.hd.mp4
+#EXTINF:0, Это очень забавная история (2010) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Eto_ochen_zabavnaya_istoriya.mp4/index-v1-a1.m3u8
+#EXTINF:0, 500 дней лета (2009) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/500_dney_leta.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Скотт и Сид (2017) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Scott_i_Sid.mp4
+#EXTINF:0, Достучаться до небес (1997) 
+#EXTGRP:Фильмы 2
+https://s1.kinotusa.ru/hls/Dostuchatsya_do_nebes.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Весенний отрыв (2009) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Vesenniy_otryv.hd.mp4
+#EXTINF:0, Убойные каникулы (2010) 
+#EXTGRP: Фильмы 2
+https://v1.kinotusa.ru/mp4/Uboynye_kanikuly.hd.mp4
+#EXTINF:0, Изгоняющий дьявола: Верующий (2023) 
+#EXTGRP:Фильмы 2
+https://v1.kinotusa.ru/mp4/Izgonyayuschiy_dyavola_2023.hd.mp4
+#EXTINF:0, Вниз (1984) 
+#EXTGRP:Фильмы 2
+https://v2.kinotusa.ru/mp4/Vniz_1984.hd.mp4
+#EXTINF:0, Женщины с 6-го этажа (2010) 
+#EXTGRP: Фильмы 2
+https://s2.kinotusa.ru/hls/Zhenschiny_s_6_go_etazha_2010.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Мятная содовая (1977) 
+#EXTGRP:Фильмы 2
+https://s2.kinotusa.ru/hls/Myatnaya_sodovaya_1977.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Тропа смерти (2021) 
+#EXTGRP:Фильмы 2
+https://s3.kinotusa.ru/hls/Tropa_smerti_2021.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Последнее ограбление (2023) 
+#EXTGRP: Фильмы 2
+https://s3.kinotusa.ru/hls/Poslednee_ograblenie_2023.hd.mp4/index-v1-a1.m3u8
+#EXTINF:0, Не пойман - не вор (2006) 
 #EXTINF:-1 tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 #EXTINF:-1 tvg-logo="https://frocus.net/images/logotv/original/dorojnoe_radio_tiraspol.jpg" tvg-id="no_epg_radio" group-title="Радио", Дорожное FM
