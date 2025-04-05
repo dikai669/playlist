@@ -13,6 +13,7 @@ def parse_m3u(url):
     current_group = None
     group_content = []
 
+    # Извлекаем строку EXTINF и другие данные
     for line in lines:
         if line.startswith("#EXTINF"):
             # Извлекаем название группы из тега EXTGRP
@@ -35,6 +36,21 @@ def parse_m3u(url):
 
     return groups
 
+
+# Функция для извлечения строки EXTМ3U
+def extract_extm3u_header(url):
+    """Извлекает строку #EXTM3U с атрибутами из целевого плейлиста."""
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
+    
+    lines = response.text.splitlines()
+    for line in lines:
+        if line.startswith("#EXTM3U"):
+            return line  # Возвращаем строку с атрибутами
+    return "#EXTM3U"  # Если строка не найдена, возвращаем базовый заголовок
+
+
 # Функция для обновления плейлиста
 def update_playlist(source_urls, target_url, output_file, special_group=None, special_source=None):
     """Обновляет целевой плейлист на основе одного или нескольких исходников."""
@@ -56,14 +72,19 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
         else:
             print(f"Группа '{special_group}' не найдена во втором исходнике")
 
+    # Извлекаем строку EXTМ3U с атрибутами
+    extm3u_header = extract_extm3u_header(target_url)
+
     # Формируем обновлённый плейлист
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
+        # Добавляем строку EXTМ3U
+        f.write(f"{extm3u_header}\n")
         for group, channels in target_groups.items():
             for channel in channels:
                 f.write(f"{channel}\n")
     
     print(f"Плейлист успешно обновлён и сохранён в {output_file}!")
+
 
 # Основная функция
 if __name__ == "__main__":
