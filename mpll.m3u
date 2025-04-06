@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 #---https://epg.online/epg.xml.gz,https://iptvx.one/EPG_LITE,https://iptvx.one/EPG_NOARCH,https://iptvx.one/epg/epg_lite.xml.gz
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Скоро будут добвлены новые каналы
-http://194.26.229.213/intro/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
