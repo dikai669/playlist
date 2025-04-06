@@ -37,18 +37,21 @@ def parse_m3u(url):
     return groups
 
 
-# Функция для извлечения строки EXTМ3U
-def extract_extm3u_header(url):
-    """Извлекает строку #EXTM3U с атрибутами из целевого плейлиста."""
+# Функция для извлечения строк метаданных
+def extract_metadata(url):
+    """Извлекает строки метаданных из целевого плейлиста."""
     response = requests.get(url)
     if response.status_code != 200:
         raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
     
     lines = response.text.splitlines()
+    metadata_lines = []
+
     for line in lines:
-        if line.startswith("#EXTM3U"):
-            return line  # Возвращаем строку с атрибутами
-    return "#EXTM3U"  # Если строка не найдена, возвращаем базовый заголовок
+        if line.startswith("#EXTM3U") or line.startswith("#---"):
+            metadata_lines.append(line)  # Сохраняем строки с метаданными
+
+    return metadata_lines
 
 
 # Функция для обновления плейлиста
@@ -72,13 +75,16 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
         else:
             print(f"Группа '{special_group}' не найдена во втором исходнике")
 
-    # Извлекаем строку EXTМ3U с атрибутами
-    extm3u_header = extract_extm3u_header(target_url)
+    # Извлекаем строки метаданных
+    metadata_lines = extract_metadata(target_url)
 
     # Формируем обновлённый плейлист
     with open(output_file, "w", encoding="utf-8") as f:
-        # Добавляем строку EXTМ3U
-        f.write(f"{extm3u_header}\n")
+        # Добавляем строки метаданных
+        for metadata_line in metadata_lines:
+            f.write(f"{metadata_line}\n")
+        
+        # Добавляем группы и каналы
         for group, channels in target_groups.items():
             for channel in channels:
                 f.write(f"{channel}\n")
