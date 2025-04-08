@@ -1852,6 +1852,198 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/2d/e7dd079556557c9f26bd56fb527b872d.png" tvg-id="Мажор" group-title="Кинозалы 2", МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
+#EXTINF:0 tvg-rec="0",VF Сваты
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13080/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Солдаты
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Тайны следствия
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Воронины
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13083/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13084/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Series
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13085/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мыльные оперы
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13088/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF История
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13091/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13092/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Клиника
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13094/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17000/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Чернобыль
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17001/index.m3u8
+#EXTINF:0 tvg-rec="0",VF The X-Files
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17002/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сверхъестественное
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Американская история ужасов
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Друзья
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17006/index.m3u8
+#EXTINF:0 tvg-rec="0",VF СашаТаня
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17008/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Джеки Чан
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17009/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Наша Раша
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Привет из 90х
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17011/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17012/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ новая общага
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17013/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17014/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Реальные пацаны
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17015/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Доктор Хаус
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17016/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Без цензуры
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17017/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Городок
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18097/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comedy Woman
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18101/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Игра престолов
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Одесская кино  VF тестстудия
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ленфильм
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF кино  VF тестстудия им. Горького
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рижская кино  VF тестстудия
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Свердловская кино  VF тестстудия
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18124/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Беларусьфильм
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18125/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19286/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Охота
+#EXTGRP:познавательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15513/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Домашний повар
+#EXTGRP:познавательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15514/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Путешествия
+#EXTGRP:познавательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15515/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рыбалка
+#EXTGRP:познавательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/16138/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Стройка
+#EXTGRP:познавательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/16139/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Орел и решка
+#EXTGRP:развлекательные
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/31476/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Вестерн
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/31553/index.m3u8
+#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/9242/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10075/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10062/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15524/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14222/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Гарри Поттер
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Карточный домик
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14221/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Секс в большом городе
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14224/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
+#EXTGRP:кино  VF тест
+http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10066/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", CTV
 https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=-1fTE1wlEjfU1-h7vQG4FA&e=1744146213&scheme=https
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Comedy Hub
