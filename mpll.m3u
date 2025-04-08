@@ -1852,134 +1852,132 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/2d/e7dd079556557c9f26bd56fb527b872d.png" tvg-id="Мажор" group-title="Кинозалы 2", МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Сваты
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Сваты
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13080/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Солдаты
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Солдаты
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13081/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Тайны следствия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Тайны следствия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13082/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Воронины
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Воронины
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13083/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Универ
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Универ
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13084/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Series
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Series
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13085/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF След
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF След
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13086/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Сериал
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Сериал
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13087/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Мыльные оперы
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Мыльные оперы
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13088/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Thriller
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Thriller
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13089/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Индия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Индия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13090/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF История
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF История
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13091/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Comics
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Comics
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13092/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Криминал
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Криминал
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13093/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Клиника
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Клиника
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/13094/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Луи де Фюнес
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Луи де Фюнес
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17000/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Чернобыль
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Чернобыль
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17001/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF The X-Files
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF The X-Files
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17002/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Сверхъестественное
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Сверхъестественное
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17003/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Леонид Гайдай
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", F Леонид Гайдай
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17004/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Американская история ужасов
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Американская история ужасов
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17005/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Друзья
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Друзья
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17006/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF СашаТаня
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF СашаТаня
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17008/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Джеки Чан
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Джеки Чан
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17009/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Наша Раша
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Наша Раша
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17010/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Привет из 90х
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Привет из 90х
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17011/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" , group-title="Кинозалы VF" , Эльдар Рязанов
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", Эльдар Рязанов
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17012/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Универ новая общага
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Универ новая общага
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17013/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Ходячие мертвецы
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Ходячие мертвецы
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17014/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Реальные пацаны
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Реальные пацаны
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17015/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Доктор Хаус
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Доктор Хаус
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17016/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Без цензуры
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Без цензуры
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17017/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Городок
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Городок
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18097/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Comedy Woman
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Comedy Woman
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18101/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Игра престолов
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Игра престолов
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18119/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Одесская кино  VF тестстудия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Одесская кино  VF тестстудия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18120/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Ленфильм
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Ленфильм
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18121/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF кино  VF тестстудия им. Горького
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF кино  VF тестстудия им. Горького
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18122/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Рижская кино  VF тестстудия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Рижская кино  VF тестстудия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18123/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Свердловская кино  VF тестстудия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Свердловская кино  VF тестстудия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18124/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Беларусьфильм
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Беларусьфильм
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/18125/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Однажды в России
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Однажды в России
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19286/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Netflix
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Netflix
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19427/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF HBO
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF HBO
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/19428/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Охота
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Охота
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15513/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Домашний повар
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Домашний повар
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15514/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Путешествия
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Путешествия
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15515/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Рыбалка
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Рыбалка
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/16138/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Стройка
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Стройка
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/16139/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Орел и решка
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Орел и решка
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/31476/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Вестерн
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Вестерн
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/31553/index.m3u8
-#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTINF:0 tvg-rec="3",group-title="Кинозалы VF" VF, Счастливы Вместе
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/9242/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTINF:0 tvg-rec="7",group-title="Кинозалы VF" V,F Бесстыжие
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10075/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTINF:0 tvg-rec="7",group-title="Кинозалы VF" VF, Два с половиной человека
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10062/index.m3u8
 #EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF С новым годом!
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15524/index.m3u8
 #EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Ёлки
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14222/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF New Year
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" , VF New Year
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15522/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Новогодний
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Новогодний
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/17035/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Гарри Поттер
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Гарри Поттер
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Карточный домик
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Карточный домик
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14221/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Секс в большом городе
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Секс в большом городе
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/14224/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Disney Movie
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Disney Movie
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15010/index.m3u8
-#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF" ,VF Теория большого взрыва
+#EXTINF:0 tvg-rec="0",  group-title="Кинозалы VF", VF Теория большого взрыва
 http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/15009/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
-http://dx8ui5xa.megatv.fun/iptv/ZYXSXP3T24FS35SHW74UBLXC/10066/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", CTV
 https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=-1fTE1wlEjfU1-h7vQG4FA&e=1744146213&scheme=https
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Comedy Hub
