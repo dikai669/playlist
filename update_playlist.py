@@ -57,15 +57,18 @@ def extract_metadata(url):
 # Функция для обновления плейлиста
 def update_playlist(source_urls, target_url, output_file, special_group=None, special_source=None):
     """Обновляет целевой плейлист на основе одного или нескольких исходников."""
+    # Парсим целевой плейлист
     target_groups = parse_m3u(target_url)
     
     # Обновляем группы из первого исходника
     source_groups = parse_m3u(source_urls[0])
-    for group, channels in source_groups.items():
-        if group in target_groups:
+    for group in list(target_groups.keys()):
+        if group in source_groups:
             print(f"Обновляется группа: {group} из первого исходника")
-            target_groups[group] = channels  # Заменяем содержимое группы
-    
+            target_groups[group] = source_groups[group]  # Заменяем содержимое группы
+        else:
+            print(f"Группа '{group}' не найдена в первом исходнике, сохраняем её")
+
     # Обновляем специальную группу из второго исходника
     if special_group and special_source:
         special_source_groups = parse_m3u(special_source)
