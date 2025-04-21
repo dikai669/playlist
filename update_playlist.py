@@ -75,8 +75,8 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
         if special_group in special_source_groups:
             print(f"Обновляется группа: {special_group} из второго исходника")
             target_groups[special_group] = special_source_groups[special_group]
-        else:
-            print(f"Группа '{special_group}' не найдена во втором исходнике")
+        elif special_group in target_groups:
+            print(f"Группа '{special_group}' не найдена во втором исходнике, сохраняем её")
 
     # Извлекаем строки метаданных
     metadata_lines = extract_metadata(target_url)
