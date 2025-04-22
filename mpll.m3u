@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 #---https://epg.online/epg.xml.gz,https://iptvx.one/EPG_LITE,https://iptvx.one/EPG_NOARCH,https://iptvx.one/epg/epg_lite.xml.gz
-#EXTGRP:Без группы
-#EXTINF:-1 group-title="🔺 INFO 🔺", Скоро будут добвлены новые каналы
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", Каналы в процессе обновления,добавляются новые
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Эфирные",Первый канал HD
