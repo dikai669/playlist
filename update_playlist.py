@@ -10,26 +10,24 @@ def parse_m3u(url):
     
     lines = response.text.splitlines()
     groups = {}
-    current_group = "Без группы"  # Группа по умолчанию для каналов без EXTGRP
+    current_group = None
     group_content = []
 
+    # Извлекаем строку EXTINF и другие данные
     for line in lines:
-        line = line.strip()
         if line.startswith("#EXTINF"):
-            # Добавляем канал в текущую группу
-            group_content.append(line)
-        elif line.startswith("#EXTGRP"):
             # Извлекаем название группы из тега EXTGRP
-            match = re.search(r'^#EXTGRP:(.+)$', line)
+            match = re.search(r'group-title="([^"]+)"', line)
             if match:
-                new_group = match.group(1).strip()
-                if new_group != current_group:
+                group_name = match.group(1).strip()
+                if group_name != current_group:
                     if current_group and group_content:
                         groups[current_group] = group_content
-                    current_group = new_group
+                    current_group = group_name
                     group_content = []
-        elif line.startswith("http"):
-            # Добавляем ссылку на канал
+            group_content.append(line)
+        elif line.startswith("#EXTVLCOPT") or line.startswith("http"):
+            # Добавляем строки с EXTVLCOPT и ссылки
             group_content.append(line)
 
     # Добавляем последнюю группу
@@ -57,21 +55,25 @@ def extract_metadata(url):
 
 
 # Функция для обновления плейлиста
-def update_playlist(source_urls, target_url, output_file, special_groups=None):
+def update_playlist(source_urls, target_url, output_file, special_group=None, special_source=None):
     """Обновляет целевой плейлист на основе одного или нескольких исходников."""
-    # Парсим целевой плейлист
     target_groups = parse_m3u(target_url)
-    print(f"Группы в целевом плейлисте: {list(target_groups.keys())}")
     
-    # Обновляем только указанные группы из специальных источников
-    if special_groups:
-        for special_group, special_source in special_groups.items():
-            special_source_groups = parse_m3u(special_source)
-            if special_group in special_source_groups:
-                print(f"Обновляется группа: {special_group} из второго исходника")
-                target_groups[special_group] = special_source_groups[special_group]
-            elif special_group in target_groups:
-                print(f"Группа '{special_group}' не найдена во втором исходнике, сохраняем её")
+    # Обновляем группы из первого исходника
+    source_groups = parse_m3u(source_urls[0])
+    for group, channels in source_groups.items():
+        if group in target_groups:
+            print(f"Обновляется группа: {group} из первого исходника")
+            target_groups[group] = channels  # Заменяем содержимое группы
+    
+    # Обновляем специальную группу из второго исходника
+    if special_group and special_source:
+        special_source_groups = parse_m3u(special_source)
+        if special_group in special_source_groups:
+            print(f"Обновляется группа: {special_group} из второго исходника")
+            target_groups[special_group] = special_source_groups[special_group]
+        else:
+            print(f"Группа '{special_group}' не найдена во втором исходнике")
 
     # Извлекаем строки метаданных
     metadata_lines = extract_metadata(target_url)
@@ -84,7 +86,6 @@ def update_playlist(source_urls, target_url, output_file, special_groups=None):
         
         # Добавляем группы и каналы
         for group, channels in target_groups.items():
-            f.write(f"#EXTGRP:{group}\n")  # Добавляем тег EXTGRP для группы
             for channel in channels:
                 f.write(f"{channel}\n")
     
@@ -99,18 +100,17 @@ if __name__ == "__main__":
     target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u"
     output_file = "mpll.m3u"
 
-    # Специальные группы для обновления
-    special_groups = {
-        "Lime (VPN 🇷🇺)": source_url_2
-    }
+    # Название группы для обновления из второго исходника
+    special_group = "Lime (VPN 🇷🇺)"
 
     # Обновляем плейлист
     try:
         update_playlist(
-            source_urls=[source_url_1],
+            source_urls=[source_url_1, source_url_2],
             target_url=target_url,
             output_file=output_file,
-            special_groups=special_groups
+            special_group=special_group,
+            special_source=source_url_2
         )
     except Exception as e:
         print(f"Ошибка: {e}")
