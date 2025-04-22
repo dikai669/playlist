@@ -4,6 +4,7 @@ on:
   schedule:
     # Запуск в 10:00 и 15:00 UTC
     - cron: "0 10,15 * * *"
+  workflow_dispatch: # Добавляем возможность ручного запуска
 
 jobs:
   update_playlist:
