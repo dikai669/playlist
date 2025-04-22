@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 #---https://epg.online/epg.xml.gz,https://iptvx.one/EPG_LITE,https://iptvx.one/EPG_NOARCH,https://iptvx.one/epg/epg_lite.xml.gz
 #EXTGRP:Без группы
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Скоро будут добвлены новые каналы
+#EXTINF:-1 group-title="🔺 INFO 🔺", Скоро будут добвлены новые каналы
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Эфирные",Первый канал HD
@@ -10686,6 +10686,128 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 #EXTINF:-1 group-title="Wink TV (тест)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2414/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="3117" tvg-logo="http://epg.it999.ru/img/3117.png" tvg-rec="3",Super Tennis HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/6079/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2407/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2420/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2408/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2050" tvg-logo="http://epg.it999.ru/img/2050.png" tvg-rec="3",Матч! Игра FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2406/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png" tvg-rec="7",Матч! Арена HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/207/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="7",Eurosport 1 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/228/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="3",Eurosport 1 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5075/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-rec="3",Eurosport 2 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5076/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="7517" tvg-logo="http://epg.it999.ru/img/7517.png" tvg-rec="3",Setanta Eurasia HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/271/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2399/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="3",Setanta Ukraine HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/272/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="6860" tvg-logo="http://epg.it999.ru/img/6860.png" tvg-rec="3",Setanta Ukraine Plus HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5068/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="3",Viju+ Sport HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5065/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2821" tvg-logo="http://epg.it999.ru/img/2821.png" tvg-rec="3",Viasat Fotboll HD SK
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5078/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png" tvg-rec="3",Удар HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5067/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" tvg-rec="3",XSPORT HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/996/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5951" tvg-logo="http://epg.it999.ru/img/5951.png" tvg-rec="0",XSPORT Plus HD UA
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15261/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme UHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5003/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png" tvg-rec="3",KHL Prime FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2403/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2362" tvg-logo="http://epg.it999.ru/img/2362.png" tvg-rec="3",FAST&FUN BOX HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/1018/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2529" tvg-logo="http://epg.it999.ru/img/2529.png" tvg-rec="3",Моторспорт ТВ HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2146/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2407/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2420/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2408/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2629" tvg-logo="http://epg.it999.ru/img/2629.png" tvg-rec="3",Fuel TV HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/2396/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/6384/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png" tvg-rec="3",Матч! Арена HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/9010/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2497" tvg-logo="http://epg.it999.ru/img/2497.png" tvg-rec="3",Russian Extreme HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/9042/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="1679" tvg-logo="http://epg.it999.ru/img/1679.png" tvg-rec="3",Конный Мир HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/9055/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/9083/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="6130" tvg-logo="http://epg.it999.ru/img/6130.png" tvg-rec="3",Insport HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/9094/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="4605" tvg-logo="http://epg.it999.ru/img/4605.png" tvg-rec="0",Хоккейный HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10013/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2050" tvg-logo="http://epg.it999.ru/img/2050.png" tvg-rec="0",Матч! Игра HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10014/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="0",Матч ТВ HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10020/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="0",Матч! Премьер HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10021/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",Спортивный HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10057/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="4679" tvg-logo="http://epg.it999.ru/img/4679.png" tvg-rec="7",Футбольный HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10058/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="4656" tvg-logo="http://epg.it999.ru/img/4656.png" tvg-rec="7",Sky Sport F1 FHD DE
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/10079/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5559" tvg-logo="http://epg.it999.ru/img/5559.png" tvg-rec="0",SKY HIGH FIGHT + HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15097/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5881" tvg-logo="http://epg.it999.ru/img/5881.png" tvg-rec="0",Живи Активно HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15143/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5901" tvg-logo="http://epg.it999.ru/img/5901.png" tvg-rec="0",Наш Спорт 10 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15149/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5902" tvg-logo="http://epg.it999.ru/img/5902.png" tvg-rec="0",Наш Спорт 11 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15150/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5903" tvg-logo="http://epg.it999.ru/img/5903.png" tvg-rec="0",Наш Спорт 12 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15151/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5904" tvg-logo="http://epg.it999.ru/img/5904.png" tvg-rec="0",Наш Спорт 13 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15152/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5905" tvg-logo="http://epg.it999.ru/img/5905.png" tvg-rec="0",Наш Спорт 14 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15153/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5906" tvg-logo="http://epg.it999.ru/img/5906.png" tvg-rec="0",Наш Спорт 15 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15154/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5907" tvg-logo="http://epg.it999.ru/img/5907.png" tvg-rec="0",Наш Спорт 16 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15155/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5908" tvg-logo="http://epg.it999.ru/img/5908.png" tvg-rec="0",Наш Спорт 17 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15156/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5909" tvg-logo="http://epg.it999.ru/img/5909.png" tvg-rec="0",Наш Спорт 18 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15157/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5910" tvg-logo="http://epg.it999.ru/img/5910.png" tvg-rec="0",Наш Спорт 19 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15158/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5911" tvg-logo="http://epg.it999.ru/img/5911.png" tvg-rec="0",Наш Спорт 20 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15159/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5912" tvg-logo="http://epg.it999.ru/img/5912.png" tvg-rec="0",Наш Спорт 21 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15160/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5913" tvg-logo="http://epg.it999.ru/img/5913.png" tvg-rec="0",Наш Спорт 22 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15161/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5914" tvg-logo="http://epg.it999.ru/img/5914.png" tvg-rec="0",Наш Спорт 23 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15162/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5915" tvg-logo="http://epg.it999.ru/img/5915.png" tvg-rec="0",Наш Спорт 24 HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15163/index.m3u8
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="0",Setanta Ukraine HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15183/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="5891" tvg-logo="http://epg.it999.ru/img/5891.png" tvg-rec="0",Q Sport Arena HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/15238/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="6039" tvg-logo="http://epg.it999.ru/img/6039.png" tvg-rec="0",Red Bull TV HD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/16040/index.m3u
+#EXTINF:0 group-title="🏆 Спорт" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme UHD
+http://jexywacp.tvclub.xyz/iptv/DS3C3KPC8BQPXY/5003/index.m3u
 #EXTINF:0 group-title="Общие ТЕСТ", Первый F
 http://220e96c0.megogo.xyz/iptv/G84QCMHA8E2EHL/2402/index.m3u8
 #EXTINF:0 group-title="Общие ТЕСТ", Первый
