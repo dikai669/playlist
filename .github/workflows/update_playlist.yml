@@ -14,17 +14,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Log current time
+      - name: Log current time before execution
         run: |
-          echo "Current UTC time: $(date -u)"
+          echo "Current UTC time before execution: $(date -u)"
 
       - name: Run update script
         run: |
           python update_playlist.py
 
-      - name: Check file content before changes
+      - name: Check file content after changes
         run: |
-          echo "Содержимое файла mpll.m3u до изменений:"
+          echo "Содержимое файла mpll.m3u после изменений:"
           cat mpll.m3u || echo "Файл mpll.m3u не существует."
 
       - name: Commit changes
@@ -42,7 +42,6 @@ jobs:
             git push origin main
           fi
 
-      - name: Check file content after changes
+      - name: Log current time after execution
         run: |
-          echo "Содержимое файла mpll.m3u после изменений:"
-          cat mpll.m3u || echo "Файл mpll.m3u не существует."
+          echo "Current UTC time after execution: $(date -u)"
