@@ -2,8 +2,8 @@ name: Update Playlist
 
 on:
   schedule:
-    # Запуск в 10:00 и 15:00 UTC
-    - cron: "0 7,12 * * *"
+    # Запуск в 11:00 и 17:00 UTC
+    - cron: "0 11,17 * * *"
   workflow_dispatch: # Добавляем возможность ручного запуска
 
 jobs:
@@ -14,9 +14,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Log current time
+        run: |
+          echo "Current UTC time: $(date -u)"
+
       - name: Run update script
         run: |
           python update_playlist.py
+
+      - name: Check file content before changes
+        run: |
+          echo "Содержимое файла mpll.m3u до изменений:"
+          cat mpll.m3u || echo "Файл mpll.m3u не существует."
 
       - name: Commit changes
         run: |
@@ -27,7 +36,13 @@ jobs:
           if git diff --quiet mpll.m3u; then
             echo "No changes to commit."
           else
+            echo "Changes detected in mpll.m3u."
             git add mpll.m3u
             git commit -m "Update playlist"
             git push origin main
           fi
+
+      - name: Check file content after changes
+        run: |
+          echo "Содержимое файла mpll.m3u после изменений:"
+          cat mpll.m3u || echo "Файл mpll.m3u не существует."
