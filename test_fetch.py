@@ -18,5 +18,5 @@ def test_fetch_file(url):
         print(f"Произошла ошибка при загрузке файла: {str(e)}")
 
 if __name__ == "__main__":
-    url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u "
+    url = "https://cdn.jsdelivr.net/gh/dikai669/playlist@main/mpll.m3u"
     test_fetch_file(url)
