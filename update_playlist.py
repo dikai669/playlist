@@ -1,20 +1,28 @@
 import requests
 import re
+import chardet  # Для определения кодировки
+
+# Функция для загрузки данных из URL без кэширования
+def fetch_url(url):
+    """Загружает данные из URL без кэширования."""
+    response = requests.get(url, headers={"Cache-Control": "no-cache"})
+    if response.status_code != 200:
+        raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
+    
+    # Определяем кодировку ответа
+    detected_encoding = chardet.detect(response.content)["encoding"]
+    return response.content.decode(detected_encoding).splitlines()
 
 # Функция для парсинга M3U плейлиста
 def parse_m3u(url):
     """Парсит M3U файл и возвращает словарь групп."""
-    response = requests.get(url)
-    if response.status_code != 200:
-        raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
-    
-    lines = response.text.splitlines()
+    lines = fetch_url(url)
     groups = {}
     current_group = None
     group_content = []
 
-    # Извлекаем строку EXTINF и другие данные
     for line in lines:
+        line = line.strip()
         if line.startswith("#EXTINF"):
             # Извлекаем название группы из тега EXTGRP
             match = re.search(r'group-title="([^"]+)"', line)
@@ -40,11 +48,7 @@ def parse_m3u(url):
 # Функция для извлечения строк метаданных
 def extract_metadata(url):
     """Извлекает строки метаданных из целевого плейлиста."""
-    response = requests.get(url)
-    if response.status_code != 200:
-        raise Exception(f"Не удалось загрузить плейлист с URL: {url}")
-    
-    lines = response.text.splitlines()
+    lines = fetch_url(url)
     metadata_lines = []
 
     for line in lines:
@@ -95,9 +99,9 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
 # Основная функция
 if __name__ == "__main__":
     # URL исходных плейлистов
-    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
-    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
-    target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u"
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u "
+    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV "
+    target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u "
     output_file = "mpll.m3u"
 
     # Название группы для обновления из второго исходника
