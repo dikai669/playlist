@@ -99,9 +99,9 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
 # Основная функция
 if __name__ == "__main__":
     # URL исходных плейлистов
-    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u " 
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u "
     source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV "
-    target_url = "https://raw.githubusercontent.com/dikai669/playlist/refs/heads/main/mpll.m3u "
+    target_url = "https://cdn.jsdelivr.net/gh/dikai669/playlist@main/mpll.m3u"  # Используем зеркало jsdelivr.net
     output_file = "mpll.m3u"
 
     # Название группы для обновления из второго исходника
