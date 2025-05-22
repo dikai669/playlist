@@ -32,7 +32,6 @@ def parse_m3u(url):
             match = re.search(r'group-title="([^"]+)"', line)
             if match:
                 group_name = match.group(1).strip()
-                print(f"Найдена группа: {group_name}")  # Логирование найденной группы
                 if group_name != current_group:
                     if current_group and group_content:
                         groups[current_group] = group_content
@@ -68,17 +67,17 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
     """Обновляет целевой плейлист на основе одного или нескольких исходников."""
     print("Загрузка целевого плейлиста...")
     target_groups = parse_m3u(target_url)
-    print(f"Группы в целевом плейлисте: {list(target_groups.keys())}")
+    print(f"Группы в целевом плейлисте: {list(target_groups.keys())[:20]} (выведено до 20)")
 
     # Обновляем группы из первого исходника
     source_groups = parse_m3u(source_urls[0])
-    print(f"Группы в первом исходнике: {list(source_groups.keys())}")
+    print(f"Группы в первом исходнике: {list(source_groups.keys())[:20]} (выведено до 20)")
 
     # Логирование изменений
     updated_groups = set()
     for group in target_groups:
         if group in source_groups:
-            print(f"Обновляется группа: {group} из первого исходника")
+            print(f"[ОБНОВЛЕНИЕ] Группа '{group}' удалена из целевого плейлиста и заменена на данные из первого исходника.")
             target_groups[group] = source_groups[group]
             updated_groups.add(group)
 
@@ -88,7 +87,7 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
     if special_group and special_source:
         special_source_groups = parse_m3u(special_source)
         if special_group in special_source_groups and special_group in target_groups:
-            print(f"Обновляется группа: {special_group} из второго исходника")
+            print(f"[ОБНОВЛЕНИЕ] Группа '{special_group}' удалена из целевого плейлиста и заменена на данные из второго исходника.")
             target_groups[special_group] = special_source_groups[special_group]
 
     # Извлекаем строки метаданных
