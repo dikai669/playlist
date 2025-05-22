@@ -1,6 +1,5 @@
 import requests
 import re
-import chardet
 
 # Функция для загрузки данных из URL без кэширования
 def fetch_url(url):
@@ -9,15 +8,14 @@ def fetch_url(url):
     if response.status_code != 200:
         raise Exception(f"Не удалось загрузить плейлист с URL: {url}. Статус: {response.status_code}")
     
-    # Определяем кодировку ответа
-    detected_encoding = chardet.detect(response.content)["encoding"]
-    print(f"Обнаруженная кодировка файла: {detected_encoding}")  # Логирование кодировки
+    # Принудительно декодируем данные в UTF-8
+    try:
+        content = response.content.decode("utf-8")
+    except UnicodeDecodeError:
+        # Если не UTF-8, пробуем MacRoman или другую кодировку
+        content = response.content.decode("MacRoman", errors="replace")
     
-    # Обработка MacRoman
-    if detected_encoding == "MacRoman":
-        return response.content.decode("MacRoman").splitlines()
-    else:
-        return response.content.decode(detected_encoding).splitlines()
+    return content.splitlines()
 
 # Функция для извлечения названий групп и каналов
 def extract_groups_and_channels(url):
@@ -33,13 +31,17 @@ def extract_groups_and_channels(url):
             group_match = re.search(r'group-title="([^"]+)"', line)
             if group_match:
                 group_name = group_match.group(1).strip()
-                groups.add(group_name)  # Добавляем название группы
+                if group_name:  # Проверяем, что название группы не пустое
+                    groups.add(group_name)
             
             # Извлекаем название канала
             channel_match = re.search(r',\s*(.+)$', line)
             if channel_match:
                 channel_name = channel_match.group(1).strip()
-                channels.append(channel_name)  # Добавляем название канала
+                if channel_name:  # Проверяем, что название канала не пустое
+                    channels.append(channel_name)
+            else:
+                print(f"Не удалось извлечь название канала из строки: {line}")
 
     return groups, channels
 
@@ -66,5 +68,4 @@ if __name__ == "__main__":
     for group in sorted(groups_2):
         print(f"- {group}")
     print("Найденные каналы:")
-    for channel in channels_2[:10]:  # Выводим первые 10 каналов
-        print(f"- {channel}")
+    for channel in channels_2[:10]:  # Выводим перв
