@@ -75,31 +75,21 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
     print(f"Группы в первом исходнике: {list(source_groups.keys())}")
 
     # Логирование изменений
-    added_groups = set(source_groups.keys()) - set(target_groups.keys())
-    removed_groups = set(target_groups.keys()) - set(source_groups.keys())
-    unchanged_groups = set(target_groups.keys()) & set(source_groups.keys())
-
-    print(f"Добавленные группы: {sorted(added_groups)}")
-    print(f"Удалённые группы: {sorted(removed_groups)}")
-    print(f"Неизменённые группы: {sorted(unchanged_groups)}")
-
-    # Обновляем группы
-    for group, channels in source_groups.items():
-        if group in target_groups:
+    updated_groups = set()
+    for group in target_groups:
+        if group in source_groups:
             print(f"Обновляется группа: {group} из первого исходника")
-            target_groups[group] = channels  # Заменяем содержимое группы
-        else:
-            print(f"Добавляется новая группа: {group}")
-            target_groups[group] = channels
+            target_groups[group] = source_groups[group]
+            updated_groups.add(group)
+
+    print(f"Обновленные группы: {sorted(updated_groups)}")
 
     # Обновляем специальную группу из второго исходника
     if special_group and special_source:
         special_source_groups = parse_m3u(special_source)
-        if special_group in special_source_groups:
+        if special_group in special_source_groups and special_group in target_groups:
             print(f"Обновляется группа: {special_group} из второго исходника")
             target_groups[special_group] = special_source_groups[special_group]
-        else:
-            print(f"Группа '{special_group}' не найдена во втором исходнике")
 
     # Извлекаем строки метаданных
     metadata_lines = extract_metadata(target_url)
@@ -121,8 +111,8 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
 # Основная функция
 if __name__ == "__main__":
     # URL исходных плейлистов
-    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
-    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u "
+    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV "
     target_url = "https://cdn.jsdelivr.net/gh/dikai669/playlist @main/mpll.m3u"
     output_file = "mpll.m3u"
 
