@@ -1,22 +1,70 @@
 import requests
+import re
+import chardet
 
-def test_fetch_file(url):
-    try:
-        print(f"Попытка загрузки файла из URL: {url}")
-        response = requests.get(url, headers={"Cache-Control": "no-cache"})
-        print(f"Статус ответа: {response.status_code}")
-        
-        if response.status_code == 200:
-            print("Файл успешно загружен.")
-            print("Первые 10 строк файла:")
-            for line in response.text.splitlines()[:10]:
-                print(line)
-        else:
-            print(f"Ошибка при загрузке файла. Статус: {response.status_code}")
+# Функция для загрузки данных из URL без кэширования
+def fetch_url(url):
+    """Загружает данные из URL без кэширования."""
+    response = requests.get(url, headers={"Cache-Control": "no-cache"})
+    if response.status_code != 200:
+        raise Exception(f"Не удалось загрузить плейлист с URL: {url}. Статус: {response.status_code}")
     
-    except Exception as e:
-        print(f"Произошла ошибка при загрузке файла: {str(e)}")
+    # Определяем кодировку ответа
+    detected_encoding = chardet.detect(response.content)["encoding"]
+    print(f"Обнаруженная кодировка файла: {detected_encoding}")  # Логирование кодировки
+    
+    # Обработка MacRoman
+    if detected_encoding == "MacRoman":
+        return response.content.decode("MacRoman").splitlines()
+    else:
+        return response.content.decode(detected_encoding).splitlines()
 
+# Функция для извлечения названий групп и каналов
+def extract_groups_and_channels(url):
+    """Извлекает названия групп и каналов из M3U файла."""
+    lines = fetch_url(url)
+    groups = set()  # Для хранения уникальных названий групп
+    channels = []   # Для хранения названий каналов
+
+    for line in lines:
+        line = line.strip()
+        if line.startswith("#EXTINF"):
+            # Извлекаем название группы (если есть)
+            group_match = re.search(r'group-title="([^"]+)"', line)
+            if group_match:
+                group_name = group_match.group(1).strip()
+                groups.add(group_name)  # Добавляем название группы
+            
+            # Извлекаем название канала
+            channel_match = re.search(r',\s*(.+)$', line)
+            if channel_match:
+                channel_name = channel_match.group(1).strip()
+                channels.append(channel_name)  # Добавляем название канала
+
+    return groups, channels
+
+# Основная функция
 if __name__ == "__main__":
-    url = "https://cdn.jsdelivr.net/gh/dikai669/playlist@main/mpll.m3u"
-    test_fetch_file(url)
+    # URL исходных плейлистов
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u "
+    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV "
+
+    # Извлекаем данные из первого исходника
+    print("=== Исходник 1 ===")
+    groups_1, channels_1 = extract_groups_and_channels(source_url_1)
+    print("Найденные группы:")
+    for group in sorted(groups_1):
+        print(f"- {group}")
+    print("Найденные каналы:")
+    for channel in channels_1[:10]:  # Выводим первые 10 каналов
+        print(f"- {channel}")
+
+    # Извлекаем данные из второго исходника
+    print("\n=== Исходник 2 ===")
+    groups_2, channels_2 = extract_groups_and_channels(source_url_2)
+    print("Найденные группы:")
+    for group in sorted(groups_2):
+        print(f"- {group}")
+    print("Найденные каналы:")
+    for channel in channels_2[:10]:  # Выводим первые 10 каналов
+        print(f"- {channel}")
