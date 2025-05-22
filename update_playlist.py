@@ -1,23 +1,21 @@
 import requests
 import re
-import chardet
 
 # Функция для загрузки данных из URL без кэширования
 def fetch_url(url):
     """Загружает данные из URL без кэширования."""
-    response = requests.get(url, headers={"Cache-Control": "no-cache"})
+    response = requests.get(url.strip(), headers={"Cache-Control": "no-cache"})
     if response.status_code != 200:
         raise Exception(f"Не удалось загрузить плейлист с URL: {url}. Статус: {response.status_code}")
     
-    # Определяем кодировку ответа
-    detected_encoding = chardet.detect(response.content)["encoding"]
-    print(f"Обнаруженная кодировка файла: {detected_encoding}")  # Логирование кодировки
+    # Принудительно декодируем данные в UTF-8
+    try:
+        content = response.content.decode("utf-8")
+    except UnicodeDecodeError:
+        # Если не UTF-8, пробуем MacRoman или другую кодировку
+        content = response.content.decode("MacRoman", errors="replace")
     
-    # Обработка MacRoman
-    if detected_encoding == "MacRoman":
-        return response.content.decode("MacRoman").splitlines()
-    else:
-        return response.content.decode(detected_encoding).splitlines()
+    return content.splitlines()
 
 # Функция для парсинга M3U плейлиста
 def parse_m3u(url):
@@ -90,6 +88,9 @@ def update_playlist(source_urls, target_url, output_file, special_group=None, sp
         if group in target_groups:
             print(f"Обновляется группа: {group} из первого исходника")
             target_groups[group] = channels  # Заменяем содержимое группы
+        else:
+            print(f"Добавляется новая группа: {group}")
+            target_groups[group] = channels
 
     # Обновляем специальную группу из второго исходника
     if special_group and special_source:
@@ -122,7 +123,7 @@ if __name__ == "__main__":
     # URL исходных плейлистов
     source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
     source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
-    target_url = "https://cdn.jsdelivr.net/gh/dikai669/playlist@main/mpll.m3u"
+    target_url = "https://cdn.jsdelivr.net/gh/dikai669/playlist @main/mpll.m3u"
     output_file = "mpll.m3u"
 
     # Название группы для обновления из второго исходника
