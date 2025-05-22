@@ -48,8 +48,8 @@ def extract_groups_and_channels(url):
 # Основная функция
 if __name__ == "__main__":
     # URL исходных плейлистов
-    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u "
-    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV "
+    source_url_1 = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
+    source_url_2 = "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
 
     # Извлекаем данные из первого исходника
     print("=== Исходник 1 ===")
