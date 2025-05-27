@@ -16721,6 +16721,8 @@ http://chiburator.monster:8000/play/fD3SivmbJNNMS2c8yOArpH9rGahoETxtu2jm2Jts8_E/
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="kino18plusint-tviksel" group-title="Взрослые [ВХОД СТРОГО 18+]", Кино 18+ International
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:0 group-title="Взрослые [ВХОД СТРОГО 18+]",Yosso TV Sexy
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2425.m3u8
 #EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
@@ -16732,6 +16734,8 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="dorcel" group-title="Взрослые [ВХОД СТРОГО 18+]", Dorcel TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/dorcel.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Dorcel Club
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2249.m3u8
 #EXTINF:-1 tvg-id="Dusk" group-title="Взрослые [ВХОД СТРОГО 18+]", DUSK
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
@@ -16753,6 +16757,8 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Reality Kings TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Digital-Playground-Logo-2007.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Playground HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2248.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые [ВХОД СТРОГО 18+]", PassionXXX HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
