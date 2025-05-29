@@ -1231,23 +1231,15 @@ http://109.248.236.51/sci-fi/mono.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://109.248.236.51/black/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra EU
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1494.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1495.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1444.m3u8
-#EXTINF:-1 tvg-id="H2" group-title="Познавательные", History2 HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1441.m3u8
 #EXTINF:-1 tvg-id="perpetmobile" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/_Ck2p348WE5rD8HYFpXM4A,1748552410/streaming/pmobile/324/1/index.m3u8
-#EXTINF:-1 tvg-id="tls" group-title="Познавательные", TLC HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1484.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
 http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
@@ -1355,8 +1347,8 @@ https://mhd128.iptv2022.com/p/HVe_XTY5C3GGdteDL4GvAg,1748552409/streaming/ohotah
 https://mhd128.iptv2022.com/p/riY2mAD_1Mv8vmgySDgo-A,1748552409/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="the-fishing-hunting" group-title="Познавательные", The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
+http://109.248.236.51/ohota_i_ribalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="dialogi-o-rybalke" group-title="Познавательные", Диалоги о рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
@@ -1461,8 +1453,6 @@ http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .sci-fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
-#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино и сериалы", Comedy Central
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/536.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино и сериалы", TV21
 http://109.248.236.51/tvxxi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air HD
